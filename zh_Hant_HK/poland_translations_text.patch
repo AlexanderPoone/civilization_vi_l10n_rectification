@@ -1,5 +1,5 @@
---- Poland_Translations_Text.xml	2017-07-28 09:01:48.484403900 +0800
-+++ Poland_Translations_Text_amended.xml	2017-07-29 22:51:33.118157900 +0800
+--- Poland_Translations_Text.xml	2017-07-30 02:55:49.269991000 +0800
++++ Poland_Translations_Text_amended.xml	2017-07-30 03:07:26.976719200 +0800
 @@ -171,7 +171,7 @@
        <Text>De acordo com relatos semi-lendários, Mieszko comandou a tribo dos polanos a partir do assentamento fortificado de Gniezno. Quando os magiares atacantes ameaçaram a tribo dos vistulanos da Cracóvia, com quem Mieszko possuía laços próximos, ele uniu as duas tribos, e assim fundou a dinastia Piast. Mieszko se converteu ao cristianismo depois de missionários da Igreja Católica Apostólica Romana de Boêmia pregarem seus benefícios espirituais e práticos, e foi batizado em 966. Apesar de algumas discussões, até mesmo os mais céticos dos historiadores agora aceita essa data como o início da Polônia.</Text>
      </Replace>
@@ -9,15 +9,6 @@
      </Replace>
      <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_4" Language="pt_BR">
        <Text>A Polônia logo se estendeu do Báltico aos Cárpatos, mais ou menos definindo suas fronteiras históricas até 1100. Porém, a morte de Boleslau III em 1138 trouxe problemas para o reino de um século de idade. Sem nenhuma tradição de primogenitura, o reino foi dividido entre seus vários filhos. A fragmentação resultante levou a constantes conflitos internos e pressões externas ao longo dos séculos seguintes.</Text>
-@@ -795,7 +795,7 @@
-       <Text>Hedwige Ière de Pologne</Text>
-     </Replace>
-     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_SUBTITLE" Language="fr_FR">
--      <Text>Sainte Hedvig Rex Poloniæ </Text>
-+      <Text>Sainte Hedvig Rex Poloniæ</Text>
-     </Replace>
-     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_QUOTE" Language="fr_FR">
-       <Text>Quiconque sert Dieu, sert un maître bon.</Text>
 @@ -1612,7 +1612,7 @@
        <Text>Varsavia</Text>
      </Replace>
@@ -357,13 +348,20 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JADWIGA_ANY" Language="zh_Hant_HK">
        <Text>我謙恭地邀請您成為我們的貴賓并前往附近的城市。讓我們一同感受當地人民充滿節慶風氣的舞蹈而帶來的樂趣。</Text>
-@@ -5506,8 +5506,7 @@
+@@ -5500,14 +5500,13 @@
+       <Text>我知道你已經找到了上帝的智慧並與世界分享。很好。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_ANY" Language="zh_Hant_HK">
+-      <Text>(你有巨大的 [ICON_Faith] 信仰值產出)</Text>
++      <Text>（你的 [ICON_Faith] 信仰值增幅大)</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JADWIGA_ANY" Language="zh_Hant_HK">
        <Text>每天我都為您的靈魂祈禱，希望您能找到主的智慧。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_WARNING_LEADER_JADWIGA_REASON_ANY" Language="zh_Hant_HK">
 -      <Text>
 -(你的信仰值產出很低。）</Text>
-+      <Text>(你的信仰值增長很少。）</Text>
++      <Text>（你的信仰值增幅很小。）</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JADWIGA_ANY" Language="zh_Hant_HK">
        <Text>您想結為同盟嗎？</Text>
