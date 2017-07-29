@@ -1,0 +1,383 @@
+--- Poland_Translations_Text.xml	2017-07-28 09:01:48.484403900 +0800
++++ Poland_Translations_Text_amended.xml	2017-07-29 22:51:33.118157900 +0800
+@@ -171,7 +171,7 @@
+       <Text>De acordo com relatos semi-lendários, Mieszko comandou a tribo dos polanos a partir do assentamento fortificado de Gniezno. Quando os magiares atacantes ameaçaram a tribo dos vistulanos da Cracóvia, com quem Mieszko possuía laços próximos, ele uniu as duas tribos, e assim fundou a dinastia Piast. Mieszko se converteu ao cristianismo depois de missionários da Igreja Católica Apostólica Romana de Boêmia pregarem seus benefícios espirituais e práticos, e foi batizado em 966. Apesar de algumas discussões, até mesmo os mais céticos dos historiadores agora aceita essa data como o início da Polônia.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_3" Language="pt_BR">
+-      <Text>Uma série de fortes (ou violentos) sucessores de Mieszko lentamente converteu os poloneses pagãos, firmando a dinastia e arrastando uma Polônia hesitante à integração com a cultura europeia. Seu filho, Boleslau, criou uma organização eclesiástica puramente polonesa e católica e sua autoridade secular foi reconhecida pelo imperador do Sacro Império Romano-Germânico. Isso levou à coroação de Boleslau em 1025, fazendo dele o primeiro "Rei da Polônia". </Text>
++      <Text>Uma série de fortes (ou violentos) sucessores de Mieszko lentamente converteu os poloneses pagãos, firmando a dinastia e arrastando uma Polônia hesitante à integração com a cultura europeia. Seu filho, Boleslau, criou uma organização eclesiástica puramente polonesa e católica e sua autoridade secular foi reconhecida pelo imperador do Sacro Império Romano-Germânico. Isso levou à coroação de Boleslau em 1025, fazendo dele o primeiro "Rei da Polônia".</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_4" Language="pt_BR">
+       <Text>A Polônia logo se estendeu do Báltico aos Cárpatos, mais ou menos definindo suas fronteiras históricas até 1100. Porém, a morte de Boleslau III em 1138 trouxe problemas para o reino de um século de idade. Sem nenhuma tradição de primogenitura, o reino foi dividido entre seus vários filhos. A fragmentação resultante levou a constantes conflitos internos e pressões externas ao longo dos séculos seguintes.</Text>
+@@ -795,7 +795,7 @@
+       <Text>Hedwige Ière de Pologne</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_SUBTITLE" Language="fr_FR">
+-      <Text>Sainte Hedvig Rex Poloniæ </Text>
++      <Text>Sainte Hedvig Rex Poloniæ</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_QUOTE" Language="fr_FR">
+       <Text>Quiconque sert Dieu, sert un maître bon.</Text>
+@@ -1612,7 +1612,7 @@
+       <Text>Varsavia</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_WROCLAW" Language="it_IT">
+-      <Text>Breslavia </Text>
++      <Text>Breslavia</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_POZNAN" Language="it_IT">
+       <Text>Poznan</Text>
+@@ -1792,7 +1792,7 @@
+       <Text>La Polonia di Edvige è una nazione versatile, forte in ambito sia militare sia religioso. Non fondare insediamenti troppo vicino alle sue città, perché può rubarti caselle di frontiera mediante le Bombe culturali generate dai suoi Forti e dai suoi Accampamenti.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY" Language="it_IT">
+-      <Text>La Polonia è una civiltà dalle molte sfaccettature, dotata di una grande capacità militare che può essere messa al servizio di altri scopi. Uno dei suoi slot per politiche militari è convertito in slot jolly, il che le permette di reclutare un Grande Profeta prima delle altre civiltà e istituire una religione. Inoltre, la creazione di Forti e Accampamenti le fa guadagnare caselle gratuite attraverso l'abilità Bomba culturale. Con Edvige al governo, le città che perdono caselle in suo favore si convertono anche alla sua religione. Questo significa che anche quando sfrutta il suo esercito, per esempio scegliendo un governo che ha slot per politiche militari e fortificando le sue frontiere, la Polonia sarà comunque molto forte anche negli ambiti religioso ed economico.  </Text>
++      <Text>La Polonia è una civiltà dalle molte sfaccettature, dotata di una grande capacità militare che può essere messa al servizio di altri scopi. Uno dei suoi slot per politiche militari è convertito in slot jolly, il che le permette di reclutare un Grande Profeta prima delle altre civiltà e istituire una religione. Inoltre, la creazione di Forti e Accampamenti le fa guadagnare caselle gratuite attraverso l'abilità Bomba culturale. Con Edvige al governo, le città che perdono caselle in suo favore si convertono anche alla sua religione. Questo significa che anche quando sfrutta il suo esercito, per esempio scegliendo un governo che ha slot per politiche militari e fortificando le sue frontiere, la Polonia sarà comunque molto forte anche negli ambiti religioso ed economico.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9" Language="it_IT">
+       <Text>Edvige aveva a malapena cominciato a riposare nel suo sarcofago, nella Cattedrale del Wawel, che i polacchi presero a venerare la sua santità, diffondendo storie sui miracoli che aveva compiuto in tutto il regno. In uno di questi racconti, la figura di Cristo su un crocifisso nero dinanzi cui stava pregando le avrebbe parlato. In un altro, avrebbe donato un gioiello a uno scalpellino povero: andandosene, avrebbe lasciato l'impronta del suo piede nel pavimento di gesso. In un altro ancora, il figlio di un ramaio sarebbe morto annegato mentre Edvige partecipava a una processione del Corpus Christi, ma sarebbe tornato in vita quando questa lo ebbe coperto col suo mantello. Queste tre testimonianze furono sufficienti affinché la chiesa cattolica la canonizzasse ufficialmente nel 1997.</Text>
+@@ -2668,7 +2668,7 @@
+       <Text>야드비가의 폴란드는 군사와 종교 방면 모두에 강점을 지닌 유연한 세력입니다. 야드비가는 요새 또는 주둔지 문화 폭탄으로 주변 타일을 획득할 수 있으므로 그녀의 도시에 너무 가까운 곳에는 정착하지 마십시오.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY" Language="ko_KR">
+-      <Text>폴란드는 여러 가지 용도에 맞춰 변형할 수 있는 강력한 군사 능력을 보유한 다면적인 문명입니다. 폴란드의 군사 정책 슬롯 중 하나를 와일드카드 슬롯으로 전환하여 다른 문명보다 빨리 위대한 선지자를 모집하고 종교를 창시할 수 있습니다. 요새와 주둔지를 생성할 때 문화 폭탄이 발생하는 능력을 통해 무료 타일을 획득할 수도 있습니다. 또한, 야드비가에게 타일을 잃는 도시는 야드비가의 종교로 개종합니다. 따라서 야드비가가 군사 슬롯을 포함하는 정부를 선택하고 개척지를 요새화하는 무력 중심 플레이를 하는 경우에도 폴란드는 여전히 종교와 경제 전선에서 강력한 힘을 발휘할 것입니다.  </Text>
++      <Text>폴란드는 여러 가지 용도에 맞춰 변형할 수 있는 강력한 군사 능력을 보유한 다면적인 문명입니다. 폴란드의 군사 정책 슬롯 중 하나를 와일드카드 슬롯으로 전환하여 다른 문명보다 빨리 위대한 선지자를 모집하고 종교를 창시할 수 있습니다. 요새와 주둔지를 생성할 때 문화 폭탄이 발생하는 능력을 통해 무료 타일을 획득할 수도 있습니다. 또한, 야드비가에게 타일을 잃는 도시는 야드비가의 종교로 개종합니다. 따라서 야드비가가 군사 슬롯을 포함하는 정부를 선택하고 개척지를 요새화하는 무력 중심 플레이를 하는 경우에도 폴란드는 여전히 종교와 경제 전선에서 강력한 힘을 발휘할 것입니다.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9" Language="ko_KR">
+       <Text>야드비가가 바벨 대성당의 석관에 안치되는 순간부터 백성들은 그녀의 신성함을 숭배하기 시작했습니다. 국가 전역에 야드비가의 성스러움과 그녀가 행한 기적에 관한 이야기들이 퍼져나갔습니다. 한 이야기에서는 그녀가 기도하는 중 검은색 십자가에 있는 그리스도상이 그녀와 얘기를 나눴다고 합니다. 다른 이야기에서는 그녀가 가난한 석공에게 장신구 일부를 주었는데, 그녀의 발자국이 단단한 석회질 바닥에 남아있었다고 합니다. 또 다른 이야기에서는 구리공의 아이가 익사했을 때 야드비가가 인근 성제 축제 행렬에 있었는데, 그녀가 그의 위에 그녀의 망토를 덮으니 그가 되살아났다고 합니다. 이 세 가지 보고된 기적으로 충분하다고 느낀 가톨릭 교회는 1997년 그녀를 성인으로 공표했습니다.</Text>
+@@ -3170,7 +3170,7 @@
+       <Text>Polska Jadwigi to wszechstronna potęga, której siłą jest zarówno armia, jak i religia. Nie osiedlaj się zbyt blisko jej miast, jeśli nie chcesz utracić najdalej położonych pól swojego terytorium z powodu bomby kulturowej związanej z fortami i dzielnicami wojskowymi Jadwigi.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY" Language="pl_PL">
+-      <Text>Polska to wszechstronna cywilizacja posiadająca duże możliwości militarne, które można wykorzystać też do innych celów. Jedno z jej miejsc na doktrynę wojskową zostało zastąpione dziką kartą, dzięki czemu Polska może wcześniej niż inne cywilizacje rekrutować wielkiego proroka i założyć religię. Poza tym budowa fortów i dzielnic wojskowych powiększa terytorium Polski o dodatkowe pola dzięki bombie kulturowej. Gdy na czele Polski stoi Jadwiga, miasta, które utracą pola w wyniku działania bomby kulturowej, zostają nawrócone na jej religię. Jeśli grając Jadwigą, zdecydujemy się rozwijać wojsko, to pomimo wybierania ustrojów z miejscami na doktryny wojskowe i umacniania granic, Polska i tak będzie bardzo silna pod względem religijnym i ekonomicznym.    </Text>
++      <Text>Polska to wszechstronna cywilizacja posiadająca duże możliwości militarne, które można wykorzystać też do innych celów. Jedno z jej miejsc na doktrynę wojskową zostało zastąpione dziką kartą, dzięki czemu Polska może wcześniej niż inne cywilizacje rekrutować wielkiego proroka i założyć religię. Poza tym budowa fortów i dzielnic wojskowych powiększa terytorium Polski o dodatkowe pola dzięki bombie kulturowej. Gdy na czele Polski stoi Jadwiga, miasta, które utracą pola w wyniku działania bomby kulturowej, zostają nawrócone na jej religię. Jeśli grając Jadwigą, zdecydujemy się rozwijać wojsko, to pomimo wybierania ustrojów z miejscami na doktryny wojskowe i umacniania granic, Polska i tak będzie bardzo silna pod względem religijnym i ekonomicznym.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9" Language="pl_PL">
+       <Text>Wkrótce po złożeniu ciała Jadwigi do sarkofagu w katedrze wawelskiej poddani zaczęli otaczać ją czcią. Po królestwie krążyły opowieści o świętości Jadwigi i o przypisywanych jej cudach. W jednej z takich historii do modlącej się Jadwigi przemówiła z czarnego krucyfiksu figura Chrystusa. W innej królowa dała biednemu murarzowi wysadzaną klejnotami sprzączkę od swojego buta, a gdy odeszła, pozostał po niej odcisk stopy w stwardniałym wapnie. W kolejnym przekazie Jadwiga biorąca udział w procesji Bożego Ciała miała przywrócić życie synkowi kotlarza, przykrywając go swoim płaszczem. Te trzy cuda wystarczyły, by Kościół katolicki w 1997 r. ogłosił królową Jadwigę świętą.</Text>
+@@ -3406,7 +3406,7 @@
+       <Text>Pobożna Jadwigo, niech będzie chwała Bogu, Ziemi i Polsce! Jako świątobliwa monarchini ukażesz swemu ludowi prawdę i światło, on zaś ruszy z tobą, by nieść tę nowinę światu. Chronią cię wspaniali, skrzydlaci wojownicy, z którymi sprostasz każdej czekającej cię próbie z wdziękiem, jakiemu nie dorówna nikt.</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="pl_PL">
+-      <Text>Oczywiście przyjmiemy twoją propozycję zawarcia przyjaźni. Jesteś wspaniałym przykładem wszystkiego, co dobre na tym świecie. </Text>
++      <Text>Oczywiście przyjmiemy twoją propozycję zawarcia przyjaźni. Jesteś wspaniałym przykładem wszystkiego, co dobre na tym świecie.</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="pl_PL">
+       <Text>Muszę z przykrością odmówić twej propozycji zawarcia przyjaźni. Nie taka jest boża wola.</Text>
+@@ -3752,7 +3752,7 @@
+       <Text>Польша при королеве Ядвиге – это динамичная держава, обладающая как военной, так и религиозной мощью. Ничего не стройте слишком близко к ее городам – она может провести культурный захват территории, построив форт или военный лагерь.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY" Language="ru_RU">
+-      <Text>Польша – многогранная цивилизация с большим военным потенциалом, который можно перенаправить на другие цели. Одна из ячеек военного политического курса преобразована в универсальную, что позволяет Польше нанять великого пророка и основать религию раньше других цивилизаций. Кроме того, строительство форта или военного лагеря дает возможность провести культурный захват свободных клеток. Города, потерявшие территорию в пользу Ядвиги, обращаются в ее религию. Поэтому даже в том случае, если Ядвига делает ставку на военную силу, выбирает формы правления с военными ячейками и укрепляет свои границы, Польша все равно остается весьма сильной в религиозном и экономическом смыслах державой.  </Text>
++      <Text>Польша – многогранная цивилизация с большим военным потенциалом, который можно перенаправить на другие цели. Одна из ячеек военного политического курса преобразована в универсальную, что позволяет Польше нанять великого пророка и основать религию раньше других цивилизаций. Кроме того, строительство форта или военного лагеря дает возможность провести культурный захват свободных клеток. Города, потерявшие территорию в пользу Ядвиги, обращаются в ее религию. Поэтому даже в том случае, если Ядвига делает ставку на военную силу, выбирает формы правления с военными ячейками и укрепляет свои границы, Польша все равно остается весьма сильной в религиозном и экономическом смыслах державой.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9" Language="ru_RU">
+       <Text>Не успели Ядвигу похоронить в соборе Вавеля, как к саркофагу стали съезжаться ее подданные, наслышанные о ее святости. Слухи о безгрешности Ядвиги и сотворенных ею чудесах разошлись по всей стране. Рассказывали, что во время молитвы с Ядвигой заговорила фигура Христа с черного распятья. Говорили, что она отдала бедному каменщику свое украшение; когда она ушла, ее след остался запечатлен в застывшем гипсовом полу. Еще одна история говорит об утонувшем сыне медника. Ядвига проходила мимо в составе процессии в честь праздника Тела Христова. Она накинула свою шаль на тело мальчика, и тот ожил. На основании этих трех сообщений о чудесах католическая церковь в 1997 году причислила ее к лику святых.</Text>
+@@ -4192,10 +4192,10 @@
+       <Text>波兰最明显的地貌特征是它北起波罗的海、南至喀尔巴阡山之间的广袤平原。对波兰不幸的是，这块平原也恰恰是入侵者的门户——西自欧洲，东自亚洲。此外，地处德国和俄罗斯之间也对波兰极为不利，因为这两个国家对波兰富饶的土地和丰富的资源一直虎视眈眈（长达一千多年）。然而曾几何时，波兰才是这片土地上最大的霸主。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+-      <Text>据传说描述，梅什科是涅兹诺驻扎定居点波拉尼耶部落的统治者，克拉科夫的维斯拉尼耶部落与他关系紧密。贪婪的马扎尔人对维斯拉尼耶部落构成威胁时，梅什科将两个部落合二为一，并借此创建了皮雅斯特王朝。来自波西米亚的罗马天主教传教士宣扬精神与实质上的益处后，梅什科皈依基督教，并于966年受洗。虽然存在一些争论，但这个时间被学者广泛认作波兰的开国之年。</Text>
++      <Text>据传说描述，梅舒科是涅兹诺驻扎定居点波拉尼耶部落的统治者，克拉科夫的维斯拉尼耶部落与他关系紧密。贪婪的马扎尔人对维斯拉尼耶部落构成威胁时，梅舒科将两个部落合二为一，并借此创建了皮雅斯特王朝。来自波西米亚的罗马天主教传教士宣扬精神与实质上的益处后，梅舒科皈依基督教，并于966年受洗。虽然存在一些争论，但这个时间被学者广泛认作波兰的开国之年。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+-      <Text>梅什科后的数位明智（或铁腕）的君主缓慢地转变了波兰异教徒的信仰，为王朝奠定了坚实的基础，并将闭关自守的波兰带向了更为广阔的欧洲文化。梅什科之子波列斯瓦夫建立了纯正的波兰天主教教会机构，其世俗权威受到日耳曼神圣罗马帝国皇帝的认可。随后波列斯瓦夫于1025年加冕，成为第一位“波兰国王”。</Text>
++      <Text>梅舒科后的数位明智（或铁腕）的君主缓慢地转变了波兰异教徒的信仰，为王朝奠定了坚实的基础，并将闭关自守的波兰带向了更为广阔的欧洲文化。梅舒科之子波列斯瓦夫建立了纯正的波兰天主教教会机构，其世俗权威受到日耳曼神圣罗马帝国皇帝的认可。随后波列斯瓦夫于1025年加冕，成为第一位“波兰国王”。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+       <Text>到1100年，波兰国土已从波罗的海延伸至喀尔巴阡山，建立起了大概的历史国境线。然而，1138年波列斯瓦夫三世去世后这个百年王国却陷入混乱。由于没有长子继承的习俗，波兰被各位王子瓜分。国土分裂导致之后几百年里内部冲突和外部压力不断爆发。</Text>
+@@ -4270,7 +4270,7 @@
+       <Text>雅德维加治下的波兰是灵活性颇高的强国，军事和宗教方面皆实力不俗。切勿靠近她的城市定居，否则她会利用堡垒或营地制成文化炸弹，夺取位于你城市边境的单元格。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY" Language="zh_Hans_CN">
+-      <Text>波兰是多面向文明，拥有较强的军事实力，并可通过其他手段改变目的。其军事槽位之一被替换为通配符槽位，可比其他文明更早拥有大预言家，进而建立宗教。此外，他们还能创建堡垒和营地触发文化炸弹，免费获得单元格。城市的单元格被波兰夺取后将触发雅德维加的领袖技能，该城的宗教将皈依波兰的宗教。因此波兰在发展军事时可以选择带军事槽位的政体并巩固边界，而在宗教和经济方面它依然十分强大。  </Text>
++      <Text>波兰是多面向文明，拥有较强的军事实力，并可通过其他手段改变目的。其军事槽位之一被替换为通配符槽位，可比其他文明更早拥有大预言家，进而建立宗教。此外，他们还能创建堡垒和营地触发文化炸弹，免费获得单元格。城市的单元格被波兰夺取后将触发雅德维加的领袖技能，该城的宗教将皈依波兰的宗教。因此波兰在发展军事时可以选择带军事槽位的政体并巩固边界，而在宗教和经济方面它依然十分强大。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9" Language="zh_Hans_CN">
+       <Text>雅德维加的遗体存放在瓦维尔大教堂的大理石棺中，很快臣民们便开始顶礼膜拜。她的圣洁故事和她所带来的神迹传遍整个国家。其中一个神迹是雅德维加祈祷时黑色十字架上的耶稣像对她开口说话。另一个是她将一块珠宝送给一个贫苦的石匠，而离开时的足迹留在了坚硬的灰泥地面上。最难以令人置信的是一个铜匠的儿子溺水，而雅德维加恰好在附近参加基督圣体节活动——据说她将披风覆盖在男孩身上，成功将其复活。根据这三个记录的神迹，天主教会在1997年将她封圣。</Text>
+@@ -4706,7 +4706,7 @@
+       <Text>Vladislao, un duque menor del linaje de los Piast, se pasó la vida reunificando el reino y se convirtió en el rey Vladislao I. En defensa de Polonia, el rey Vladislao I llevó a cabo cruzadas contra los paganos lituanos y mongoles, además de declarar la guerra a los codiciosos Caballeros Teutones para expulsarlos. Tras su muerte, fue sucedido por su hábil hijo, que comenzó su reinado como Casimiro III y lo finalizó como Casimiro el Grande. El nuevo rey no solo aseguró lo que había ganado su padre mediante una diplomacia astuta y guerras breves y triunfales, sino que además consiguió convertir Polonia en un centro del comercio, del saber y de la cultura. Duplicó el tamaño del reino, reorganizó la economía y el sistema legal de la nación e impulsó la fundación de la primera universidad polaca. Bajo el gobierno liberal de Casimiro, Polonia se convirtió en un refugio para los desahuciados y perseguidos; los alemanes se asentaron en las ciudades, los refugiados armenios y eslavos en las tierras bajas rurales y miles de judíos por todo el país. No obstante, Casimiro el Grande murió en 1370 sin herederos varones y fue el último rey de la dinastía Piast.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_6" Language="es_ES">
+-      <Text>Casimiro había nombrado sucesor a su sobrino Luis I de Hungría, donde pasaría gran parte de su vida. Tras su muerte en 1382, los nobles polacos eligieron a su hija menor Eduviges para ocupar el trono. Su matrimonio con Jogaila, gran duque de Lituania, hizo que este también ocupara el trono polaco, no sin antes convertirse al catolicismo y adoptar el nombre Vladislao II. Juntos reinaron hasta el fallecimiento de Eduviges en 1399. </Text>
++      <Text>Casimiro había nombrado sucesor a su sobrino Luis I de Hungría, donde pasaría gran parte de su vida. Tras su muerte en 1382, los nobles polacos eligieron a su hija menor Eduviges para ocupar el trono. Su matrimonio con Jogaila, gran duque de Lituania, hizo que este también ocupara el trono polaco, no sin antes convertirse al catolicismo y adoptar el nombre Vladislao II. Juntos reinaron hasta el fallecimiento de Eduviges en 1399.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_7" Language="es_ES">
+       <Text>Vladislao II acudió en ayuda de los lituanos, que estaban atrapados en una guerra encarnizada con los Caballeros Teutones, con lo que los polacos entraron en el conflicto en 1401. En julio de 1410, en Grünwald, tras una de las batallas más feroces de la Edad Media, la fuerza combinada lituano-polaca obtuvo una victoria abrumadora sobre la Orden Teutona y la mayor parte de sus líderes murieron o fueron capturados.</Text>
+@@ -4772,7 +4772,7 @@
+       <Text>La Polonia de Eduviges es una potencia flexible con puntos fuertes tanto en lo militar como en lo religioso. No te asientes demasiado cerca de sus ciudades, porque puede robarte casillas de frontera por medio de su Fuerte o su Campamento Bombardeo cultural.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY" Language="es_ES">
+-      <Text>Polonia es una civilización polifacética con una fuerte capacidad militar que puede reutilizarse para otros fines. Uno de sus espacios de política militar se convierte en un espacio comodín, por lo que puede reclutar a un Gran profeta y fundar una religión antes que otras civilizaciones. Además, crear Fuertes y Campamentos le permite obtener casillas gratis gracias a su habilidad Bombardeo cultural. Y con Eduviges al mando, las ciudades a las que arrebate casillas también se convertirán a su religión. Así que incluso cuando Eduviges se concentra en su faceta militar, por ejemplo, eligiendo gobiernos con espacios militares y fortificando su frontera, Polonia siempre será muy fuerte en lo religioso y lo económico.  </Text>
++      <Text>Polonia es una civilización polifacética con una fuerte capacidad militar que puede reutilizarse para otros fines. Uno de sus espacios de política militar se convierte en un espacio comodín, por lo que puede reclutar a un Gran profeta y fundar una religión antes que otras civilizaciones. Además, crear Fuertes y Campamentos le permite obtener casillas gratis gracias a su habilidad Bombardeo cultural. Y con Eduviges al mando, las ciudades a las que arrebate casillas también se convertirán a su religión. Así que incluso cuando Eduviges se concentra en su faceta militar, por ejemplo, eligiendo gobiernos con espacios militares y fortificando su frontera, Polonia siempre será muy fuerte en lo religioso y lo económico.</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9" Language="es_ES">
+       <Text>Apenas Eduviges estaba en su sarcófago de la catedral de Wawel, sus súbditos ya empezaron a venerarla. Las historias de su santidad y de sus milagros corrieron por todo el país. En una, le habló la figura de Cristo de un crucifijo negro al que le rezaba. En otra, le dio a un pobre albañil una joya que llevaba en el pie; cuando se fue, su huella quedó marcada en el suelo de yeso endurecido. En otra más, el hijo de un calderero se ahogó mientras Eduviges participaba cerca de allí en una procesión del Corpus, y dicen que la mujer cubrió al muchacho con su manto y este resucitó. Gracias a estos tres supuestos milagros, fue canonizada por la Iglesia católica en 1997.</Text>
+@@ -5116,7 +5116,7 @@
+       <Text>華沙</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_WROCLAW" Language="zh_Hant_HK">
+-      <Text>弗羅茨瓦夫</Text>
++      <Text>獲斯華夫</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_POZNAN" Language="zh_Hant_HK">
+       <Text>波茲南</Text>
+@@ -5125,7 +5125,7 @@
+       <Text>格但斯克</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_BYDGOSZCZ" Language="zh_Hant_HK">
+-      <Text>比得哥什</Text>
++      <Text>比得哥舒車</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_LUBLIN" Language="zh_Hant_HK">
+       <Text>盧布林</Text>
+@@ -5134,88 +5134,88 @@
+       <Text>拉敦</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_LODZ" Language="zh_Hant_HK">
+-      <Text>羅茲</Text>
++      <Text>胡茲</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_GNIEZNO" Language="zh_Hant_HK">
+       <Text>格涅茲諾</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_PLOCK" Language="zh_Hant_HK">
+-      <Text>普洛克</Text>
++      <Text>普獲茨克</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_TARNOW" Language="zh_Hant_HK">
+       <Text>塔爾努夫</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_KALISZ" Language="zh_Hant_HK">
+-      <Text>卡利什</Text>
++      <Text>卡利舒/Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_LEGNICA" Language="zh_Hant_HK">
+       <Text>萊格尼察</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_SZCZECIN" Language="zh_Hant_HK">
+-      <Text>斯塞新</Text>
++      <Text>舒車前</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_SACZ" Language="zh_Hant_HK">
+-      <Text>松奇</Text>
++      <Text>桑切</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_PIOTRKOW_TRYBUNALSKI" Language="zh_Hant_HK">
+-      <Text>彼得庫夫特雷布納爾斯基</Text>
++      <Text>彼得科夫第里布納斯基</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_KATOWICE" Language="zh_Hant_HK">
+       <Text>卡托維治</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_INOWROCLAW" Language="zh_Hant_HK">
+-      <Text>伊諾弗羅茨瓦夫</Text>
++      <Text>伊諾獲斯華夫</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_GLOGOW" Language="zh_Hant_HK">
+-      <Text>格沃古夫</Text>
++      <Text>格禾古夫</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_CZESTOCHOWA" Language="zh_Hant_HK">
+-      <Text>琴斯托霍瓦</Text>
++      <Text>真斯多荷華</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_ZAMOSC" Language="zh_Hant_HK">
+-      <Text>扎莫希奇</Text>
++      <Text>扎莫舒車</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_RACIBORZ" Language="zh_Hant_HK">
+       <Text>拉齊布日</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_SWIDNICA" Language="zh_Hant_HK">
+-      <Text>希維德尼察</Text>
++      <Text>斯維德尼察</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_RADOMSKO" Language="zh_Hant_HK">
+-      <Text>拉多姆斯科</Text>
++      <Text>拉敦斯科</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_KONIN" Language="zh_Hant_HK">
+       <Text>科寧</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_SLUPSK" Language="zh_Hant_HK">
+-      <Text>斯武普斯克</Text>
++      <Text>斯胡普斯克</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_WALBRZYCH" Language="zh_Hant_HK">
+       <Text>瓦烏布日赫</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_STALOWA_WOLA" Language="zh_Hant_HK">
+-      <Text>斯塔洛瓦沃拉</Text>
++      <Text>斯塔洛華禾拉</Text>
+     </Replace>
+     <Replace Tag="LOC_CITY_NAME_LWOW" Language="zh_Hant_HK">
+-      <Text>利維夫</Text>
++      <Text>利禾夫</Text>
+     </Replace>
+     <Replace Tag="LOC_CIVILIZATION_POLAND_DESCRIPTION" Language="zh_Hant_HK">
+       <Text>波蘭帝國</Text>
+     </Replace>
+     <Replace Tag="LOC_CIVILIZATION_POLAND_ADJECTIVE" Language="zh_Hant_HK">
+-      <Text>波蘭人</Text>
++      <Text>波蘭</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SUKIENNICE_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+-      <Text>因為地處歐洲和俄羅斯之間，波蘭的城市因貿易而蓬勃發展，位於全國各大城市的布廳（在波蘭語中稱作紡織會館）便是最好的例證。它擁有交易攤位，商販可在此銷售布料、皮革製品、蠟、鹽、胡椒、香料以及從遠東運來的絲綢，事實上涵蓋了各種各樣的進出口商品。紡織會館一般建在城鎮中心，這裡堪稱國際市場，而且要比分散在歐洲的普通市場更大更華麗。在大廳和門廊，來自不同地域的商人互相交易，而且只要能負擔得起，當地人就可以在這裡找到所有他們想要的奢侈品。在波蘭，歷史最悠久、規模最大的紡織會館便是克拉科夫紡織會館，該會館於西元1555年火災後重新以文藝復興風格建成。直到十六世紀結束之前，這裡一直是東西方重要的國際貿易中心（如今，這裡的貨攤向遊客們兜售零食和紀念品）。紡織會館在波蘭其他城市也是至關重要的，促進了如波茲南、弗羅茨瓦夫和托倫等地區的商業繁榮。</Text>
++      <Text>因為地處歐洲和俄羅斯之間，波蘭的城市因貿易而蓬勃發展，位於全國各大城市的布廳（在波蘭語中稱作紡織會館）便是最好的例證。它擁有交易攤位，商販可在此銷售布料、皮革製品、蠟、鹽、胡椒、香料以及從遠東運來的絲綢，事實上涵蓋了各種各樣的進出口商品。紡織會館一般建在城鎮中心，這裡堪稱國際市場，而且要比分散在歐洲的普通市場更大更華麗。在大廳和門廊，來自不同地域的商人互相交易，而且只要能負擔得起，當地人就可以在這裡找到所有他們想要的奢侈品。在波蘭，歷史最悠久、規模最大的紡織會館便是克拉科夫紡織會館，該會館於西元1555年火災後重新以文藝復興風格建成。直到十六世紀結束之前，這裡一直是東西方重要的國際貿易中心（如今，這裡的貨攤向遊客們兜售零食和紀念品）。紡織會館在波蘭其他城市也是至關重要的，促進了如波茲南、獲斯華夫和托倫等地區的商業繁榮。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+       <Text>波蘭最明顯的地貌特徵是它從北部波羅的海到南部喀爾巴阡山之間的廣闊平原。不幸的是，不論是對西方的歐洲而言，或是對東方的亞洲而言，波蘭這塊大平原都成了最好的入侵關口。此外，座落在德國和俄羅斯之間也對波蘭十分不利。這兩國數百年來都對波蘭富饒的土地和豐富的資源虎視眈眈。然而曾幾何時，波蘭才是是這片土地上最大的霸主。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+-      <Text>根據半傳說半史實的史料所載，梅什科一世從固若金湯的格涅茲諾聚居地中統治著整個波蘭部族。當馬扎爾人組成的盜匪威脅了克拉科夫的威斯拉尼族部落時，與其關係密切的梅什科一世聯合了兩個部落的勢力，創立了皮雅斯特王朝。當來自波希米亞的天主教傳教士前來遊說其宗教在靈性上與實際上的優勢時，梅什科一世便皈依了天主教，並於966年受洗。儘管還有些爭議，但幾乎所有學者現在都接受此受洗日期象徵著波蘭王國的開端。</Text>
++      <Text>根據半傳說半史實的史料所載，梅舒科一世從固若金湯的格涅茲諾聚居地中統治著整個波蘭部族。當馬扎爾人組成的盜匪威脅了克拉科夫的威斯拉尼族部落時，與其關係密切的梅舒科一世聯合了兩個部落的勢力，創立了皮雅斯特王朝。當來自波希米亞的天主教傳教士前來遊說其宗教在靈性上與實際上的優勢時，梅舒科一世便皈依了天主教，並於966年受洗。儘管還有些爭議，但幾乎所有學者現在都接受此受洗日期象徵著波蘭王國的開端。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+-      <Text>梅什科一世後繼任的數位強大（或是說鐵腕）的君主緩慢地讓信仰異教的波蘭人皈依天主教、建立了堅實的王朝統治，同時將仍有些不情願的波蘭人民拖進廣闊的歐洲文化圈中。梅什科一世的兒子波列斯瓦夫一世建立了純粹的波蘭天主教教會組織，而其俗世權威也受到神聖羅馬帝國皇帝奧托三世的認可。進而導致波列斯瓦夫在1025年的加冕，讓他成為了首位「波蘭國王」。</Text>
++      <Text>梅舒科一世後繼任的數位強大（或是說鐵腕）的君主緩慢地讓信仰異教的波蘭人皈依天主教、建立了堅實的王朝統治，同時將仍有些不情願的波蘭人民拖進廣闊的歐洲文化圈中。梅舒科一世的兒子波列斯瓦夫一世建立了純粹的波蘭天主教教會組織，而其俗世權威也受到神聖羅馬帝國皇帝奧托三世的認可。進而導致波列斯瓦夫在1025年的加冕，讓他成為了首位「波蘭國王」。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+       <Text>波蘭很快便將國土從波羅的海擴張至喀爾巴阡，並在1100年約略建立了其歷史上的邊界。然而，1138年波列斯瓦夫三世的死亡為這個已存在一世紀的王國再添變數。在未確立嫡子繼承傳統的情況下，波蘭國土最終分封給了波列斯瓦夫三世的數位子嗣。並導致接下來長達數世紀的連綿內部征戰與外敵施壓。</Text>
+@@ -5224,19 +5224,19 @@
+       <Text>瓦迪斯瓦夫，一位皮亞斯特家族的小公爵，將其畢生精力都用在重新統一王國上，也因此受封為瓦迪斯瓦夫一世國王。為了保衛波蘭，瓦迪斯瓦夫一世發動了針對立陶宛和蒙古異教徒的十字軍東征，同時也發動戰爭驅逐偽善且貪婪的條頓騎士。瓦迪斯瓦夫去世後，他更優秀的兒子卡齊米日大帝登上了王位。卡齊米日大帝不僅保住了他父親通過機智的外交手腕及短期戰績所取得的成果，還使波蘭成為文化、學習和貿易的中心。卡齊米日大帝將波蘭的疆土擴大了不只兩倍，還重新建立了國家的經濟及法律體系，並推動建立了波蘭第一所大學。在凱西米爾的自由統治下，波蘭成為了被壓迫者和受迫害者的天堂；日耳曼人在波蘭城市中定居，亞美尼亞和斯拉夫難民在鄉村低地生活，成千山萬的猶太人也湧入波蘭並生根發芽。但是凱西米爾大帝沒有男性繼承人，他成為了皮亞斯特王朝最後一位國王，於1370年去世。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_6" Language="zh_Hant_HK">
+-      <Text>卡齊米日所指定的繼任者為他的姪子，匈牙利的洛約什一世（洛約什在匈牙利度過了大半人生）。洛約什一世於1382年的逝世，有逆心的波蘭貴族選任了他最年輕的女兒雅德維加作為波蘭國王。雅德維加與約蓋拉間的婚姻，讓後者這位立陶宛的大公也成了波蘭國王，並在皈依天主教後改名為波蘭名字瓦迪斯瓦夫二世。兩王共同統治波蘭，直到雅德維加於1399年逝世後為止，這也象徵著波蘭國王奇特兩王共治局面的終結。</Text>
++      <Text>卡齊米日所指定的繼任者為他的姪子，匈牙利的洛約舒一世（洛約舒在匈牙利度過了大半人生）。洛約舒一世於1382年的逝世，有逆心的波蘭貴族選任了他最年輕的女兒也德維嘉作為波蘭國王。也德維嘉與約蓋拉間的婚姻，讓後者這位立陶宛的大公也成了波蘭國王，並在皈依天主教後改名為波蘭名字瓦迪斯瓦夫二世。兩王共同統治波蘭，直到也德維嘉於1399年逝世後為止，這也象徵著波蘭國王奇特兩王共治局面的終結。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_7" Language="zh_Hant_HK">
+       <Text>為了協助與條頓騎士團連番惡戰的立陶宛軍，瓦迪斯瓦夫二世在1401年率領波蘭人加入戰局。1410年七月，在格倫瓦德經歷了中世紀最慘烈的一場戰爭後，立陶宛與波蘭聯軍大獲全勝，不但近乎全殲條頓騎士團，也殺掉或俘虜了多數條頓騎士團的領袖。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_8" Language="zh_Hant_HK">
+-      <Text>雅蓋洛君主在接下來的幾十年裡都在進行（連番慘烈的）戰爭，和它貪婪的鄰國一起：條頓騎士團、普魯士公國、波西米亞和匈牙利王國、莫斯科大公國，以及南面的鄂圖曼土耳其人和克里米亞韃靼人，大部分戰爭都取得了勝利，克里米亞韃靼人在1474至1569年期間，發動了不下75次單獨入侵。他們似乎永遠不會吸取教訓。大致上來說，波蘭的諸位國王都有能力維持波蘭的邊界，並在整個王朝發揮影響力。</Text>
++      <Text>也蓋洛君主在接下來的幾十年裡都在進行（連番慘烈的）戰爭，和它貪婪的鄰國一起：條頓騎士團、普魯士公國、波希米亞和匈牙利王國、莫斯科大公國，以及南面的鄂圖曼土耳其人和克里米亞韃靼人，大部分戰爭都取得了勝利，克里米亞韃靼人在1474至1569年期間，發動了不下75次單獨入侵。他們似乎永遠不會吸取教訓。大致上來說，波蘭的諸位國王都有能力維持波蘭的邊界，並在整個王朝發揮影響力。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_9" Language="zh_Hant_HK">
+-      <Text>除了戰爭勝利外，更有意義且持久的成就便是雅蓋洛王朝統治下的社會和科學進步。1505年，「毫無新內容法案」將立法權從君王轉給了色姆，色姆是由波蘭貴族組成的議會，也是邁向民主前的蹣跚學步。宗教改革運動，尤其是由波西米亞的約翰•胡斯領導的宗教改革運動影響了波蘭天主教，同時也設立了促進宗教寬容的法律。文藝復興的思想讓雅蓋洛國王齊格蒙特一世和二世萌發了推廣波蘭藝術和文化的想法，文化和藝術在16世紀得到繁榮發展。1543年，波蘭天文學家尼古拉•哥白尼發表了日心說的劃時代著作。</Text>
++      <Text>除了戰爭勝利外，更有意義且持久的成就便是也蓋洛王朝統治下的社會和科學進步。1505年，「毫無新內容法案」將立法權從君王轉給了色姆，色姆是由波蘭貴族組成的議會，也是邁向民主前的蹣跚學步。宗教改革運動，尤其是由波希米亞的約翰‧胡斯領導的宗教改革運動影響了波蘭天主教，同時也設立了促進宗教寬容的法律。文藝復興的思想讓也蓋洛國王齊格蒙特一世和二世萌發了推廣波蘭藝術和文化的想法，文化和藝術在16世紀得到繁榮發展。1543年，波蘭天文學家尼古拉‧哥白尼發表了日心說的劃時代著作。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_10" Language="zh_Hant_HK">
+-      <Text>受高漲的民族主義、「民主」律法及外國意圖顧慮的刺激，1569年六月，色姆通過了建立波蘭立陶宛邦聯的法案，讓其成為一個有選任的君主的統一聯邦國家，由貴族通過本地立法機構和中央議會進行管理。雅蓋洛王朝最後一位國王，沒有子嗣的齊格蒙特二世接受並簽署了這個法案。雖然邦聯帶來了穩定與繁榮，並將西方文化傳播到了烏克蘭、俄羅斯西部等落後地區，但它也再次被捲入同俄羅斯、瑞典、鄂圖曼、哥薩克及其他始終難平的鄰邦衝突之中。</Text>
++      <Text>受高漲的民族主義、「民主」律法及外國意圖顧慮的刺激，1569年六月，色姆通過了建立波蘭立陶宛聯邦的法案，讓其成為一個有選任的君主的統一聯邦國家，由貴族通過本地立法機構和中央議會進行管理。也蓋洛王朝最後一位國王，沒有子嗣的齊格蒙特二世接受並簽署了這個法案。雖然聯邦帶來了穩定與繁榮，並將西方文化傳播到了烏克蘭、俄羅斯西部等落後地區，但它也再次被捲入同俄羅斯、瑞典、鄂圖曼、哥薩克及其他始終難平的鄰邦衝突之中。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_11" Language="zh_Hant_HK">
+       <Text>連年戰爭所付出的代價，尤其是波蘭立陶宛所參與的大北方戰爭，加上連續幾任積弱不振的國王，使得整個國家急需內政改革。18世紀中期，色姆轉向實施商業、軍事、社會及教育改革。這些努力包括1773年成立國家教育委員會，建立歐洲第一套政府資助的教育體制，教農民自己閱讀《聖經》。此後不久，波蘭的農民便開始爭取更多權利，甚至想親自嘗嘗民主的滋味。</Text>
+@@ -5245,7 +5245,7 @@
+       <Text>到了此時，《聖經》不再是波蘭人唯一的讀物。過去幾個世紀，在諸多高明君主的領導下，極具特色的波蘭文化形成並繁榮起來。波蘭作家創作出了各式各樣動人的文學作品及詩歌，比如克拉西茨基和揚‧波洛茨克的作品。雖然波蘭文化受日耳曼、斯拉夫、拉丁和拜占庭文化影響極大，但波蘭的建築、藝術及舞蹈都具有鮮明的特色。然而，波蘭人真正擅長的是音樂，尤其是它們動人的音色、音調、節奏以及樂器間的水乳交融。隨後，全世界聞名的波蘭作曲家，比如蕭邦，和創造出經典佳作的密契夫斯基、歐金斯基、席曼諾夫斯卡等，在某種程度上都樹立了自己在音樂方面的良好聲譽。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_13" Language="zh_Hant_HK">
+-      <Text>波蘭仰賴著出口農作物逐漸變得富強了起來。這個聯邦是目前為止歐洲最大的糧食產地，這些農作物在廣闊肥沃的平原上茁壯成長。隨著農業進步，波蘭成為了水果、香料、鯡魚、纖維織物、木材、啤酒及葡萄酒的主要產地。所有東西沿著維斯瓦河、布格河及涅曼河被運送到波羅的海港口（如格但斯克），然後裝船運到佛蘭德斯和荷蘭。陸地運輸可以深入到神聖羅馬帝國。為了記清財產的數目，色姆於1496年將茲羅提作為全國貨幣。波蘭的最後一位國王斯坦尼斯瓦夫•奧古斯特波尼亞托夫斯基執政時，隨著金融改革，他將茲羅提標準化…只是後來，邦聯也不復存在了。</Text>
++      <Text>波蘭仰賴著出口農作物逐漸變得富強了起來。這個聯邦是目前為止歐洲最大的糧食產地，這些農作物在廣闊肥沃的平原上茁壯成長。隨著農業進步，波蘭成為了水果、香料、鯡魚、纖維織物、木材、啤酒及葡萄酒的主要產地。所有東西沿著維斯瓦河、布格河及涅曼河被運送到波羅的海港口（如格但斯克），然後裝船運到佛蘭德斯和荷蘭。陸地運輸可以深入到神聖羅馬帝國。為了記清財產的數目，色姆於1496年將茲羅提作為全國貨幣。波蘭的最後一位國王斯坦尼斯瓦夫‧奧古斯特波尼亞托夫斯基執政時，隨著金融改革，他將茲羅提標準化…只是後來，聯邦也不復存在了。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POLAND_CHAPTER_HISTORY_PARA_14" Language="zh_Hant_HK">
+       <Text>由於用於改革的政府開支已將國庫掏空（因此無法支付軍事開銷），可以理解地，貴族們開始猶豫是否要拿他們的生命和財產來冒險，而波蘭的鄰國也不斷施加干預。1772年，俄羅斯、奧地利和普魯士佔領了波蘭的部分領土，並對其進行了第一次瓜分。短暫的波俄戰爭後，普魯士及俄羅斯又進行了第二次瓜分，這次瓜分奪走了波蘭大部分領土，使它再無力在經濟和軍事上支撐自己。1795年，奧地利、俄羅斯及普魯士進行了第三次瓜分，剝奪了這個國家僅存的土地，一個獨立的波蘭不復存在。</Text>
+@@ -5254,49 +5254,49 @@
+       <Text>最後一次瓜分後，波蘭幾乎從歷史上消失了。波蘭大公國被拿破崙重建，成為法國的自由附屬國。拿破崙戰敗後，波蘭再次被普魯士、奧地利及俄羅斯瓜分。第一次世界大戰後，波蘭被改組為一個自由國家，為了維持這種自由，它與才成立的蘇聯進行了2年的戰爭。1939年，波蘭被昔日盟友納粹德國和蘇聯瓜分。在鐵幕之後，波蘭被共產主義者佔領，這個國家再次獲得了重生。但是在20世紀90年代，波蘭是第一個鑽出鏽蝕的鐵幕，掙脫蘇聯統治的國家之一，重新成為了一個自由國度。即便一無所有，波蘭人民仍堅持自己對自治的追求。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_TITLE" Language="zh_Hant_HK">
+-      <Text>雅德維加</Text>
++      <Text>也德維嘉</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_SUBTITLE" Language="zh_Hant_HK">
+-      <Text>波蘭國王海德維格——一個聖人</Text>
++      <Text>波蘭國王海德維格——聖人</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_QUOTE" Language="zh_Hant_HK">
+       <Text>侍奉上帝的人會擁有一個好的領導者。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+-      <Text>在14世紀末的波蘭，國王的三女兒能起到的最大作用便是透過聯姻，鞏固王國的未來。然而在短短的一生中，虔誠的雅德維加成功統治了全波蘭。透過共同（且易懂）的信仰，這位無私且睿智的君王統合了相異的子民們。</Text>
++      <Text>在14世紀末的波蘭，國王的三女兒能起到的最大作用便是透過聯姻，鞏固王國的未來。然而在短短的一生中，虔誠的也德維嘉成功統治了全波蘭。透過共同（且易懂）的信仰，這位無私且睿智的君王統合了相異的子民們。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+-      <Text>波士尼亞的伊麗莎白以及匈牙利國王洛約什一世的女兒雅德維加於1373年出生。自小在布達與維謝格拉德的皇家住所長大，雅德維加受到了良好的教育，精通五種語言，並且極為虔誠。洛約什一世於1382年逝世時出現了繼承危機，伊麗莎白便將年輕的雅德維加送到了克拉科夫來解決這場危機。因其慈愛而受到波蘭人民喜愛、因其信仰而受到天主教會的背書，而因其親切的人格受到死硬派波蘭貴族的默許，11歲的公主雅德維加就這樣在1384年成了大波蘭王國的女王。</Text>
++      <Text>波斯尼亞的伊麗莎白以及匈牙利國王洛約舒一世的女兒也德維嘉於1373年出生。自小在布達與維謝格拉德的皇家住所長大，也德維嘉受到了良好的教育，精通五種語言，並且極為虔誠。洛約舒一世於1382年逝世時出現了繼承危機，伊麗莎白便將年輕的也德維嘉送到了克拉科夫來解決這場危機。因其慈愛而受到波蘭人民喜愛、因其信仰而受到天主教會的背書，而因其親切的人格受到死硬派波蘭貴族的默許，11歲的公主也德維嘉就這樣在1384年成了大波蘭王國的女王。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+-      <Text>新任的波蘭國王面對著險惡的情勢。好幾位與卡齊米日有微弱血緣關係的後裔仍有資格坐上王位。更糟的是，波蘭正受到日耳曼城邦與莫斯科公國統治者的威脅，還可能遭到蒙古人和韃靼人的入侵。為了穩固盟友關係，同時保衛波蘭的未來，雅德維加同意嫁給立陶宛的大公約蓋拉，前提是他（與他的子民）從異教皈依為天主教。</Text>
++      <Text>新任的波蘭國王面對著險惡的情勢。好幾位與卡齊米日有微弱血緣關係的後裔仍有資格坐上王位。更糟的是，波蘭正受到日耳曼城邦與莫斯科公國統治者的威脅，還可能遭到蒙古人和韃靼人的入侵。為了穩固盟友關係，同時保衛波蘭的未來，也德維嘉同意嫁給立陶宛的大公約蓋拉，前提是他（與他的子民）從異教皈依為天主教。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+-      <Text>因此，在1386年，雅德維加與剛受洗完的約蓋拉成婚，後者很快地便改名為瓦迪斯瓦夫二世，好讓他的統治能被愛國的波蘭人所接受。耶路撒冷的德意志弟兄聖母騎士團（簡稱為條頓騎士團）入侵立陶宛的兩天前，瓦迪斯瓦夫二世匆促地被加冕為Jure uxoris國王（拉丁文意為「依照妻子的權利」成為國王）。條頓騎士團聲稱他們要收回卡齊米日奪走的領土，但實際上，無論什麼土地他們都要。</Text>
++      <Text>因此，在1386年，也德維嘉與剛受洗完的約蓋拉成婚，後者很快地便改名為瓦迪斯瓦夫二世，好讓他的統治能被愛國的波蘭人所接受。耶路撒冷的德意志弟兄聖母騎士團（簡稱為條頓騎士團）入侵立陶宛的兩天前，瓦迪斯瓦夫二世匆促地被加冕為Jure uxoris國王（拉丁文意為「依照妻子的權利」成為國王）。條頓騎士團聲稱他們要收回卡齊米日奪走的領土，但實際上，無論什麼土地他們都要。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+-      <Text>年輕的女王在立陶宛的異教轉型中扮演關鍵角色。就指引立陶宛人皈依新信仰的問題，她曾多次同「教會王公」會面。當然在這方面瓦迪斯瓦夫二世也做出了貢獻；據說，他曾用雙手砍倒了家鄉「神聖」果園裡的樹木。雅德維加每年為20個立陶宛人提供獎學金，讓他們前往布拉格的查理大學學習，以便回來後能強化家鄉人民的宗教信仰。她還在罪惡的溫床維爾紐斯設立了主教職位。</Text>
++      <Text>年輕的女王在立陶宛的異教轉型中扮演關鍵角色。就指引立陶宛人皈依新信仰的問題，她曾多次同「教會王公」會面。當然在這方面瓦迪斯瓦夫二世也做出了貢獻；據說，他曾用雙手砍倒了家鄉「神聖」果園裡的樹木。也德維嘉每年為20個立陶宛人提供獎學金，讓他們前往布拉格的查理大學學習，以便回來後能強化家鄉人民的宗教信仰。她還在罪惡的溫床維爾紐斯設立了主教職位。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_6" Language="zh_Hant_HK">
+-      <Text>雅德維加與瓦迪斯瓦夫二世意外地是極有效率的共治君王。雅德維加前去與條頓騎士團團長會面時，據稱她的虔誠讓團長為騎士團的貪婪與嗜血感到自相形慚，以致他們暫時停止了掠奪。她同時調解了瓦迪斯瓦夫二世與他表親維陶塔斯間的關係，後者亟欲取得立陶宛的王座。1387年，雅德維加兩次出征羅塞尼亞，收復被匈牙利佔領的領土。儘管沒有發生什麼巨大的衝突，雅德維加的出征最後以失去的國土歸還波蘭、摩爾達維亞公國的佩圖一世向波蘭王室效忠作結。</Text>
++      <Text>也德維嘉與瓦迪斯瓦夫二世意外地是極有效率的共治君王。也德維嘉前去與條頓騎士團團長會面時，據稱她的虔誠讓團長為騎士團的貪婪與嗜血感到自相形慚，以致他們暫時停止了掠奪。她同時調解了瓦迪斯瓦夫二世與他表親維陶塔斯間的關係，後者亟欲取得立陶宛的王座。1387年，也德維嘉兩次出征羅塞尼亞，收復被匈牙利佔領的領土。儘管沒有發生什麼巨大的衝突，也德維嘉的出征最後以失去的國土歸還波蘭、摩爾達維亞公國的佩圖一世向波蘭王室效忠作結。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_7" Language="zh_Hant_HK">
+-      <Text>雅德維加比她的臣民們文雅，但她也不斷啓發他們探索更美好的事物。雅德維加資助了很多波蘭藝術家和作家。她對波蘭文化最傑出的貢獻是修復了克拉科夫學院。她將自己的大部分珠寶捐給了這所學校，讓學校招收學生學習天文、法律和神學。雅德維加還提倡更加全面的信仰，將聖經從拉丁文翻譯為波蘭本國語。</Text>
++      <Text>也德維嘉比她的臣民們文雅，但她也不斷啓發他們探索更美好的事物。也德維嘉資助了很多波蘭藝術家和作家。她對波蘭文化最傑出的貢獻是修復了克拉科夫學院。她將自己的大部分珠寶捐給了這所學校，讓學校招收學生學習天文、法律和神學。也德維嘉還提倡更加全面的信仰，將聖經從拉丁文翻譯至波蘭語。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_8" Language="zh_Hant_HK">
+-      <Text>雅德維加的統治很快便結束了。在1399年她產下了第一個子嗣，是個女兒，然而在一個月內母女兩人便因分娩時的併發症而離世。儘管雅德維加僅得年25歲，她卻在位大半生。透過穩固與立陶宛間的關係，她同時也為兩國合併的未來打下了基礎。與她共治波蘭與立陶宛的國王瓦迪斯瓦夫二世在她死後延續統治了35年。</Text>
++      <Text>也德維嘉的統治很快便結束了。在1399年她產下了第一個子嗣，是個女兒，然而在一個月內母女兩人便因分娩時的併發症而離世。儘管也德維嘉僅得年25歲，她卻在位大半生。透過穩固與立陶宛間的關係，她同時也為兩國合併的未來打下了基礎。與她共治波蘭與立陶宛的國王瓦迪斯瓦夫二世在她死後延續統治了35年。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_CAPSULE_BODY" Language="zh_Hant_HK">
+-      <Text>雅德維加治下的波蘭是非常靈活的強國，在軍事和宗教方面皆很強大。千萬別在她的城市附近創建城市，否則她可能會利用堡壘或營地製成文化炸彈，奪取位於你城市邊界的單元格。</Text>
++      <Text>也德維嘉治下的波蘭是非常靈活的強國，在軍事和宗教方面皆很強大。千萬別在她的城市附近創建城市，否則她可能會利用堡壘或營地製成文化炸彈，奪取位於你城市邊界的單元格。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_DETAILED_BODY" Language="zh_Hant_HK">
+-      <Text>波蘭是個多面向文明，具有能用做其他用途的強大軍事實力。他們的其中一個軍事政策槽位已轉為通配符槽位，讓他們能趕在其他文明之前招募到大預言家，並且建立宗教。除此之外，他們能夠使用文化炸彈在建造堡壘和營地時獲得免費的單元格。在雅德維加的領導之下，單元格遭到奪取的城市將會皈依其宗教。所以就算雅德維加打算著重發展軍事，選擇了具有軍事槽位的政體並且鞏固了疆界，波蘭在宗教和經濟方面仍然會有很強大的實力。  </Text>
++      <Text>波蘭是個多面向文明，具有能用做其他用途的強大軍事實力。他們的其中一個軍事政策槽位已轉為通配符槽位，讓他們能趕在其他文明之前招募到大預言家，並且建立宗教。除此之外，他們能夠使用文化炸彈在建造堡壘和營地時獲得免費的單元格。在也德維嘉的領導之下，單元格遭到奪取的城市將會皈依其宗教。所以就算也德維嘉打算著重發展軍事，選擇了具有軍事槽位的政體並且鞏固了疆界，波蘭在宗教和經濟方面仍然會有很強大的實力。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JADWIGA_CHAPTER_HISTORY_PARA_9" Language="zh_Hant_HK">
+-      <Text>雅德維加尚未埋骨於瓦維爾主教座堂前，臣民們便開始頂禮膜拜。雅德維加的神聖事蹟廣為流傳於整個國家，還有著許多被認為與之相關的神蹟。在某個流傳甚廣的神蹟中，釘在黑色十字架上的基督像在她祈禱時向她開口說話。而在另一個神蹟中，她將珠寶給了一位可憐的石匠；當她離去時，她的腳印深深印在堅硬的石膏地面上。還有一個最為匪夷所思的神蹟，一位銅匠的兒子不幸溺死，當時雅德維加正在附近參加聖體聖血瞻禮，據說當她將自己的披風覆蓋在男孩的屍身上後，男孩便起死回生。這三件聖蹟讓天主教會於1997年將她封為聖人。</Text>
++      <Text>也德維嘉尚未埋骨於瓦維爾主教座堂前，臣民們便開始頂禮膜拜。也德維嘉的神聖事蹟廣為流傳於整個國家，還有著許多被認為與之相關的神蹟。在某個流傳甚廣的神蹟中，釘在黑色十字架上的基督像在她祈禱時向她開口說話。而在另一個神蹟中，她將珠寶給了一位可憐的石匠；當她離去時，她的腳印深深印在堅硬的石膏地面上。還有一個最為匪夷所思的神蹟，一位銅匠的兒子不幸溺死，當時也德維嘉正在附近參加聖體聖血瞻禮，據說當她將自己的披風覆蓋在男孩的屍身上後，男孩便起死回生。這三件聖蹟讓天主教會於1997年將她封為聖人。</Text>
+     </Replace>
+     <Replace Tag="LOC_PEDIA_UNITS_PAGE_UNIT_POLISH_HUSSAR_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+-      <Text>波蘭軍隊於1570年代後期的改革促進了翼騎兵的誕生，而這個令人聞風喪膽的強大騎兵團也在之後的兩個世紀享有精英部隊的地位。不派出以外國傭兵組成的騎兵團，外西凡尼亞王子斯特凡•巴托里（同時也是立陶宛大公、波蘭國王以及許多驚人頭銜的擁有者）以波蘭貴族及其隨從組成了翼騎兵。翼騎兵著名的「雙翼」是由木頭骨架搭配羽毛組成，裝於騎兵背後以供清楚辨識。傳說這些雙翼在衝鋒時會發出「邪惡的嘶聲」，驚嚇敵方戰馬的同時也削減了敵方士兵的士氣，但這些都是後世小說家之言，可能對這對儀式性的配件有所渲染誇飾。但無疑的是，翼騎兵在戰場上所裝備的長槍、軍刀與手槍，肯定嚇破了敵方戰馬的膽，也讓敵方士兵屁滾尿流。</Text>
++      <Text>波蘭軍隊於1570年代後期的改革促進了翼騎兵的誕生，而這個令人聞風喪膽的強大騎兵團也在之後的兩個世紀享有精英部隊的地位。不派出以外國傭兵組成的騎兵團，外西凡尼亞王子司提反‧巴托里（同時也是立陶宛大公、波蘭國王以及許多驚人頭銜的擁有者）以波蘭貴族及其隨從組成了翼騎兵。翼騎兵著名的「雙翼」是由木頭骨架搭配羽毛組成，裝於騎兵背後以供清楚辨識。傳說這些雙翼在衝鋒時會發出「邪惡的嘶聲」，驚嚇敵方戰馬的同時也削減了敵方士兵的士氣，但這些都是後世小說家之言，可能對這對儀式性的配件有所渲染誇飾。但無疑的是，翼騎兵在戰場上所裝備的長槍、軍刀與手槍，肯定嚇破了敵方戰馬的膽，也讓敵方士兵屁滾尿流。</Text>
+     </Replace>
+     <Replace Tag="LOC_CITIZEN_POLAND_MALE_1" Language="zh_Hant_HK">
+       <Text>阿洛伊齊</Text>
+@@ -5440,10 +5440,10 @@
+       <Text>3850萬（2016年估計值）</Text>
+     </Replace>
+     <Replace Tag="LOC_CIVINFO_POLAND_CAPITAL" Language="zh_Hant_HK">
+-      <Text>眾多（普洛克、波茲南、克拉科夫、華沙）</Text>
++      <Text>眾多（普獲茨克、波茲南、克拉科夫、華沙）</Text>
+     </Replace>
+     <Replace Tag="LOC_LOADING_INFO_LEADER_JADWIGA" Language="zh_Hant_HK">
+-      <Text>虔誠的雅德維加受到神明、世界和波蘭的稱讚！作為最神聖的國王，您會向您的國民展示真理和光明，他們將走出國門，向其他人傳播這些真理。在翼勇士的保護下，您會用真誠的仁慈來迎接任何挑戰，這一點無人可及。</Text>
++      <Text>虔誠的也德維嘉受到神明、世界和波蘭的稱讚！作為最神聖的國王，您會向您的國民展示真理和光明，他們將走出國門，向其他人傳播這些真理。在翼勇士的保護下，您會用真誠的仁慈來迎接任何挑戰，這一點無人可及。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JADWIGA_ANY" Language="zh_Hant_HK">
+       <Text>我們當然願意接受您的友誼。您可是世上至善的楷模。</Text>
+@@ -5482,7 +5482,7 @@
+       <Text>邪惡無法躲藏。上帝的榮光會讓邪惡無所遁形。（譴責你）。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_JADWIGA_ANY" Language="zh_Hant_HK">
+-      <Text>這次會面一定受到了上帝的祝福。我是大波蘭的國王，雅德維加。你沒聽錯，我是國王。</Text>
++      <Text>這次會面一定受到了上帝的祝福。我是大波蘭的國王，也德維嘉。你沒聽錯，我是國王。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JADWIGA_ANY" Language="zh_Hant_HK">
+       <Text>我謙恭地邀請您成為我們的貴賓并前往附近的城市。讓我們一同感受當地人民充滿節慶風氣的舞蹈而帶來的樂趣。</Text>
+@@ -5506,8 +5506,7 @@
+       <Text>每天我都為您的靈魂祈禱，希望您能找到主的智慧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_WARNING_LEADER_JADWIGA_REASON_ANY" Language="zh_Hant_HK">
+-      <Text>
+-(你的信仰值產出很低。）</Text>
++      <Text>(你的信仰值增長很少。）</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JADWIGA_ANY" Language="zh_Hant_HK">
+       <Text>您想結為同盟嗎？</Text>
+@@ -5543,10 +5542,10 @@
+       <Text>非常感謝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MODIFIER_SAINT_HIGH_FAITH" Language="zh_Hant_HK">
+-      <Text>雅德維加很高興看見你獲得許多信仰值。</Text>
++      <Text>也德維嘉很高興看見你獲得許多信仰值。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MODIFIER_SAINT_LOW_FAITH" Language="zh_Hant_HK">
+-      <Text>雅德維加很失望你沒有獲得夠多的信仰值。</Text>
++      <Text>也德維嘉很失望你沒有獲得夠多的信仰值。</Text>
+     </Replace>
+   </LocalizedText>
+ </GameData>
+\ No hay ning�n car�cter de nueva l�nea al final del fichero

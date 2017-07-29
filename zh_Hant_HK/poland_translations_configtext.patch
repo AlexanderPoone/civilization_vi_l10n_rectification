@@ -1,0 +1,20 @@
+--- Poland_Translations_ConfigText.xml	2017-07-28 09:00:55.483476200 +0800
++++ Poland_Translations_ConfigText_amended.xml	2017-07-30 01:15:35.581298900 +0800
+@@ -395,7 +395,7 @@
+       <Text>波蘭</Text>
+     </Replace>
+     <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="zh_Hant_HK">
+-      <Text>雅德維加</Text>
++      <Text>也德維嘉</Text>
+     </Replace>
+     <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="zh_Hant_HK">
+       <Text>貴族民主制</Text>
+@@ -404,7 +404,7 @@
+       <Text>在友方領土完成兵營或堡壘時對鄰近單元格進行文化轟炸。目前政體的一個軍事政策槽位會轉為通用槽位。</Text>
+     </Replace>
+     <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="zh_Hant_HK">
+-      <Text>立陶宛邦聯</Text>
++      <Text>立陶宛聯邦</Text>
+     </Replace>
+     <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="zh_Hant_HK">
+       <Text>如相鄰城市受波蘭文化炸彈攻擊失去單元格，波蘭所創立的宗教將成為此城的主流宗教。聖地從相鄰的區域獲得標準信仰值相鄰加成。所有遺跡提供加成：信仰值+2、文化+2與金幣+4。</Text>
