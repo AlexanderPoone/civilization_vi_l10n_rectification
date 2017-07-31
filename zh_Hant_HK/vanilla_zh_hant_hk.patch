@@ -1,5 +1,5 @@
 --- Vanilla_zh_Hant_HK.xml	2017-07-28 16:16:47.429764600 +0800
-+++ Vanilla_zh_Hant_HK_amended.xml	2017-07-29 14:11:29.685056500 +0800
++++ Vanilla_zh_Hant_HK_amended.xml	2017-07-31 21:05:28.959870600 +0800
 @@ -14,7 +14,7 @@
        <Text>阿蘭布拉宮</Text>
      </Replace>
@@ -3884,7 +3884,7 @@
      </Replace>
      <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FREDERIC_CHOPIN_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
 -      <Text>1810年三月，弗里德里克•弗朗齊歇克•蕭邦出生於一個由法國移居到此地的中產家庭裡。這個早熟的男孩七歲時就發表了他創作的第一支樂曲。蕭邦出生後，父親尼古拉斯在華沙找到了一份為貴族當家教的工作，從而讓他從小就能接觸到上層文明社會。因此，到了1818年，這個音樂神童已經開始在城裡的各個沙龍進行演出了。</Text>
-+      <Text>1810年三月，弗里德里克‧弗朗齊歇克‧蕭邦出生於一個由法國移居到此地的中產家庭裡。這個早熟的男孩七歲時就發表了他創作的第一支樂曲。蕭邦出生後，父親尼古拉斯在華沙找到了一份為貴族當家教的工作，從而讓他從小就能接觸到上層文明社會。因此，到了1818年，這個音樂神童已經開始在城裡的各個沙龍進行演出了。</Text>
++      <Text>1810年三月，腓特烈‧弗朗齊歇克‧蕭邦出生於一個由法國移居到此地的中產家庭裡。這個早熟的男孩七歲時就發表了他創作的第一支樂曲。蕭邦出生後，父親尼古拉斯在華沙找到了一份為貴族當家教的工作，從而讓他從小就能接觸到上層文明社會。因此，到了1818年，這個音樂神童已經開始在城裡的各個沙龍進行演出了。</Text>
      </Replace>
      <Replace Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FREDERIC_CHOPIN_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
        <Text>在華沙音樂學院畢業後，蕭邦的父母把他送到了維也納，讓他去尋找生命的真諦。他沒有辜負父母的期望，1829年，他在這裡舉辦了首屆音樂會。在接下來的三年裡，他在奧地利、波蘭、德國和法國之間來回居住，最終定居於巴黎。在這裡，富人家的孩子初進社交界，他給他們當老師，並且作為一位獨奏者，他獲得了很多稱讚。待遇豐厚的工作讓他過著優渥的生活，同時也讓他有時間創作出音樂史上一些偉大作品，如《降B小調夜曲》、《升F大調夜曲》、《降B小調詼諧曲》、《降B小調第二鋼琴奏鳴曲》等等。</Text>
@@ -7725,7 +7725,7 @@
      </Replace>
      <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_FREDERIC_CHOPIN_NAME" Language="zh_Hant_HK">
 -      <Text>弗里德里克•蕭邦</Text>
-+      <Text>弗里德里克‧蕭邦</Text>
++      <Text>腓特烈‧蕭邦</Text>
      </Replace>
      <Replace Tag="LOC_GREAT_PERSON_INDIVIDUAL_PETER_ILYICH_TCHAIKOVSKY_NAME" Language="zh_Hant_HK">
 -      <Text>彼得•伊里奇•柴可夫斯基</Text>
@@ -7794,6 +7794,15 @@
      </Replace>
      <Replace Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME" Language="zh_Hant_HK">
        <Text>啟示</Text>
+@@ -17315,7 +17315,7 @@
+       <Text>你被解雇了</Text>
+     </Replace>
+     <Replace Tag="LOC_ADVISOR_BUTTON_ASSISTANCE_APPRECIATED" Language="zh_Hant_HK">
+-      <Text>謝謝您的幫助</Text>
++      <Text>謝謝你的幫助</Text>
+     </Replace>
+     <Replace Tag="LOC_ADVISOR_BUTTON_CONTINUE" Language="zh_Hant_HK">
+       <Text>繼續</Text>
 @@ -17525,7 +17525,7 @@
        <Text>我們的建造者一直處於閒置狀態。或許應該讓他們來改善我們城市周圍的土地。</Text>
      </Replace>
@@ -7938,6 +7947,15 @@
      </Replace>
      <Replace Tag="LOC_TUTORIAL_GOAL_6" Language="zh_Hant_HK">
        <Text>開發：使用建造者改良新城市周圍的土地。</Text>
+@@ -18437,7 +18437,7 @@
+       <Text>繼續使用偵察兵探索世界。行動結束時，結束回合。</Text>
+     </Replace>
+     <Replace Tag="LOC_META_116_BODY" Language="zh_Hant_HK">
+-      <Text>您的文明需要不斷研究新科技。您剛完成 了採礦研究，所以在進入次回合之前，您必須選擇接下來的研究項目。</Text>
++      <Text>您的文明需要不斷研究新科技。您剛完成了採礦研究，所以在進入次回合之前，您必須選擇接下來的研究項目。</Text>
+     </Replace>
+     <Replace Tag="LOC_META_117_BODY" Language="zh_Hant_HK">
+       <Text>已開始研究製陶術。請再偵察兵單位完成移動後結束回合。</Text>
 @@ -18464,7 +18464,7 @@
        <Text>本教程其餘部分將幫你實現你的第一個統治勝利。 [NEWLINE][NEWLINE]統治勝利的目的是讓你的文明成為最後一個沒有被佔領 [ICON_Capital] 首都城市的文明。 [NEWLINE][NEWLINE]對本教程而言，這意味著你將使用自己的軍隊來佔領對手的 [ICON_Capital] 首都城市，同時阻止他們佔領你的城市。 [NEWLINE][NEWLINE]如何最終實現這一目標將取決於你。但我們已提供了3個可選目標，如果完成，會極大幫助你實現這一目標。</Text>
      </Replace>
@@ -8046,6 +8064,15 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY" Language="zh_Hant_HK">
        <Text>我的心情因為您的提議而變得美好。讓我們為友誼慶祝吧。</Text>
+@@ -19166,7 +19166,7 @@
+       <Text>（你有他想要的奢侈品。）</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MONTEZUMA_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MONTEZUMA_ANY" Language="zh_Hant_HK">
+       <Text>這場戰爭讓神靈很滿意。現在就來慶祝吧。</Text>
 @@ -19193,7 +19193,7 @@
        <Text>DLC：阿茲特克文明禮包</Text>
      </Replace>
@@ -8176,8 +8203,33 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_FRIEND" Language="zh_Hant_HK">
        <Text>托米麗司喜歡宣佈友好</Text>
-@@ -21821,7 +21821,7 @@
-       <Text>我接受您的友誼。當然，還會邀請您參加下次皇室婚禮。</Text>
+@@ -21779,10 +21779,10 @@
+       <Text>計劃拍賣</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEAL_INTRO" Language="zh_Hant_HK">
+-      <Text>有什麼可為您效勞？</Text>
++      <Text>有什麼可為你效勞？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEAL_INTRO_AI" Language="zh_Hant_HK">
+-      <Text>您覺得這樣如何？</Text>
++      <Text>你覺得這樣如何？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEMAND_INTRO" Language="zh_Hant_HK">
+       <Text>必須滿足我的索取。</Text>
+@@ -21812,58 +21812,58 @@
+       <Text>承諾不會挖掘我的文物</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興接受您的友誼。</Text>
++      <Text>我們很高興接受你的友誼。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+-      <Text>我代表剛果人民接受您的友誼和善意。</Text>
++      <Text>我代表剛果人民接受你的友誼和善意。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+-      <Text>我接受您的友誼。當然，還會邀請您參加下次皇室婚禮。</Text>
++      <Text>我接受你的友誼。當然，還會邀請你參加下次皇室婚禮。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
 -      <Text>很好。我只希望你更像馬克•安東尼而不是布魯特斯。</Text>
@@ -8185,15 +8237,60 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
        <Text>一個強大的盟友是最偉大的朋友。讓我們和平相處吧。</Text>
-@@ -21830,7 +21830,7 @@
-       <Text>我接受您的友誼。但願這就是和平。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>我接受您的友誼。但願這就是和平。</Text>
++      <Text>我接受你的友誼。但願這就是和平。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
 -      <Text>吉爾伽美什很高興接受你的友誼。讓全世界都知道你是我的莫逆之交！</Text>
 +      <Text>基加美修很高興接受你的友誼。讓全世界都知道你是我的莫逆之交！</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY" Language="zh_Hant_HK">
-       <Text>事實證明，您是斯巴達的好朋友。我代表我的國民接受您。</Text>
+-      <Text>事實證明，您是斯巴達的好朋友。我代表我的國民接受您。</Text>
++      <Text>事實證明，你是斯巴達的好朋友。我代表我的國民接受你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+-      <Text>朋友？是的，我是您的朋友。</Text>
++      <Text>朋友？是的，我是你的朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>我在您身上看到了一個勇士的平靜與安寧，對這樣的友誼，我深表歡迎。</Text>
++      <Text>我在你身上看到了一個勇士的平靜與安寧，對這樣的友誼，我深表歡迎。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興接受您的友誼。</Text>
++      <Text>我們很高興接受你的友誼。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>我代表民眾接受您的友誼。</Text>
++      <Text>我代表民眾接受你的友誼。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>為了兩國人民，我接受您善良的提議。</Text>
++      <Text>為了兩國人民，我接受你善良的提議。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>願上帝保佑您，我的朋友。讓全世界都知道他的力量保護著您。</Text>
++      <Text>願上帝保佑你，我的朋友。讓全世界都知道他的力量保護著你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY" Language="zh_Hant_HK">
+-      <Text>事實證明，您是中原皇朝一位可敬的朋友，我們接受您的提議。</Text>
++      <Text>事實證明，你是中原皇朝一位可敬的朋友，我們接受你的提議。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>既然我知道了您是我們國家的朋友，那讓我們向全世界宣佈我們的友誼吧。</Text>
++      <Text>既然我知道了你是我們國家的朋友，那讓我們向全世界宣佈我們的友誼吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+       <Text>對此，我無法拒絕。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>我接受您的友誼，請不要背叛我的信任。</Text>
++      <Text>我接受你的友誼，請不要背叛我的信任。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+       <Text>讓人們知道我們兩國是朋友，我們因友誼而結合在一起。</Text>
 @@ -21890,7 +21890,7 @@
        <Text>抱歉，我無法和你達成一致。請理解，這完全是出於好意。</Text>
      </Replace>
@@ -8203,45 +8300,283 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY" Language="zh_Hant_HK">
        <Text>斯巴達不需要你的友誼。</Text>
-@@ -22400,7 +22400,7 @@
-       <Text>我們在宮殿接待了貴國代表團。我們會好好珍藏您的禮物。非常感謝。</Text>
+@@ -21932,43 +21932,43 @@
+       <Text>作出這樣的承諾還為時過早。我們自然會在適當的時候重新考慮。明白嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>您願意正式宣佈我們的友誼嗎？</Text>
++      <Text>你願意正式宣佈我們的友誼嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+-      <Text>我向您伸出了友誼之手。讓我們的人民在神的帶領下，成為兄弟姐妹。</Text>
++      <Text>我向你伸出了友誼之手。讓我們的人民在神的帶領下，成為兄弟姐妹。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+-      <Text>我向您伸出了高貴的友誼之手，您會接受嗎？</Text>
++      <Text>我向你伸出了高貴的友誼之手，你會接受嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+       <Text>有很多東西都會扼殺掉我的友情。我慷慨地向你伸出友誼之手。你會有何反應？ </Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>我們這次為了友誼而再次伸出了手。您會接受嗎？</Text>
++      <Text>我們這次為了友誼而再次伸出了手。你會接受嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>我認為曾經的統治意味著相互侵犯；但如今意味著和睦相處，共同發展。所以…您會接受我的友誼嗎？</Text>
++      <Text>我認為曾經的統治意味著相互侵犯；但如今意味著和睦相處，共同發展。所以…你會接受我的友誼嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
+       <Text>全世界都知道我對朋友很慷慨。讓我們化敵為友吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY" Language="zh_Hant_HK">
+-      <Text>我特此向您獻上斯巴達式的友誼，您會接受嗎？</Text>
++      <Text>我特此向你獻上斯巴達式的友誼，你會接受嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+-      <Text>在旅途中，我從未遇到和我一樣偉大的人，直到遇見了您。讓我們成為朋友吧。</Text>
++      <Text>在旅途中，我從未遇到和我一樣偉大的人，直到遇見了你。讓我們成為朋友吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>您友好睿智。如果您能接受我們成為您的朋友，我們將忠誠並尊敬您。</Text>
++      <Text>你友好睿智。如果你能接受我們成為你的朋友，我們將忠誠並尊敬你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>您願意正式宣佈我們的友誼嗎？</Text>
++      <Text>你願意正式宣佈我們的友誼嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+       <Text>可以讓我們的分歧暫時擱置嗎？友好關係比狹隘政治更重要。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>我很榮幸向您表達我以及我們兩國之間的友誼之情。您接受嗎？</Text>
++      <Text>我很榮幸向你表達我以及我們兩國之間的友誼之情。你接受嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+       <Text>我相信在耶和華的光明中，你一定見識了智慧的力量。讓我們一起分享這份被他祝福的友誼吧。</Text>
+@@ -21977,19 +21977,19 @@
+       <Text>請允許我們回報你的友誼吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>事實證明，您是一位聰明公正的領袖。您能接受我的友誼嗎？</Text>
++      <Text>事實證明，你是一位聰明公正的領袖。你能接受我的友誼嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>您贏得了我們的尊重。我們能締結友誼嗎？</Text>
++      <Text>你贏得了我們的尊重。我們能締結友誼嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+       <Text>國家之間的友誼是最珍貴的東西。讓我們一起締造友誼。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>神聖羅馬提出了友誼建議。您接受嗎？</Text>
++      <Text>神聖羅馬提出了友誼建議。你接受嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興地認為您是一位受人尊敬的朋友。希望這種感覺是相互的…</Text>
++      <Text>我們很高興地認為你是一位受人尊敬的朋友。希望這種感覺是相互的…</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY" Language="zh_Hant_HK">
+       <Text>棒極了。</Text>
+@@ -22001,13 +22001,13 @@
+       <Text>謝謝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+-      <Text>我該如何感謝您？</Text>
++      <Text>我該如何感謝你？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，朋友。</Text>
++      <Text>謝謝你，朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，朋友。</Text>
++      <Text>謝謝你，朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
+       <Text>謝謝！</Text>
+@@ -22016,10 +22016,10 @@
+       <Text>謝謝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，我的朋友。</Text>
++      <Text>謝謝你，我的朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，朋友。</Text>
++      <Text>謝謝你，朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+       <Text>棒極了。</Text>
+@@ -22028,28 +22028,28 @@
+       <Text>謝謝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>十分感謝您。</Text>
++      <Text>十分感謝你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>願上帝保佑您。</Text>
++      <Text>願上帝保佑你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY" Language="zh_Hant_HK">
+       <Text>我們很感激。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>願真主保佑您。</Text>
++      <Text>願真主保佑你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+       <Text>十分感謝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，朋友。</Text>
++      <Text>謝謝你，朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+       <Text>萬分感謝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+-      <Text>您是最善良體貼的人。</Text>
++      <Text>你是最善良體貼的人。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY" Language="zh_Hant_HK">
+       <Text>真是倒霉。</Text>
+@@ -22340,7 +22340,7 @@
+       <Text>埃及失敗了。如果無法擁有摯愛，那我去擁抱毒蛇好了。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>我們是令人敬畏且享有盛名的…不過，別在意那些。您勝利了。願您的統治比我曾經的統治更和平安寧。</Text>
++      <Text>我們是令人敬畏且享有盛名的…不過，別在意那些。你勝利了。願你的統治比我曾經的統治更和平安寧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+       <Text>你能束縛我、折磨我，甚至摧毀我的軀體，但你永遠沒辦法禁錮我的思想。</Text>
+@@ -22358,7 +22358,7 @@
+       <Text>請別再讓我的家人…我的國民蒙羞。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MONTEZUMA_ANY" Language="zh_Hant_HK">
+-      <Text>維齊洛波奇特利包容了我們的缺點…我的缺點。我沒有強大到足以為您服務。</Text>
++      <Text>維齊洛波奇特利包容了我們的缺點…我的缺點。我沒有強大到足以為你服務。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+       <Text>願上帝實現我最後的願望——祝願巴西和平繁榮。</Text>
+@@ -22379,7 +22379,7 @@
+       <Text>這不是勝利。「勝利」是改變你對手的內心；通過一種溫柔且仁慈的方式。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>恭喜。不是美國，而是您的國家將揚名立萬。</Text>
++      <Text>恭喜。不是美國，而是你的國家將揚名立萬。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+       <Text>女皇下臺，但人們會記住我。你呢？</Text>
+@@ -22394,22 +22394,22 @@
+       <Text>我們很高興地歡迎貴國代表團來我國首都。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+-      <Text>貴國貿易代表團抵達了我國首都，我們熱情地迎接了他們。感謝您的禮物。</Text>
++      <Text>貴國貿易代表團抵達了我國首都，我們熱情地迎接了他們。感謝你的禮物。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+-      <Text>我們在宮殿接待了貴國代表團。我們會好好珍藏您的禮物。非常感謝。</Text>
++      <Text>我們在宮殿接待了貴國代表團。我們會好好珍藏你的禮物。非常感謝。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
 -      <Text>我從您的貿易代表團那裡收到了給新伊希斯的禮物。我會永遠銘記您的好意。</Text>
-+      <Text>我從您的貿易代表團那裡收到了給新伊西斯的禮物。我會永遠銘記您的好意。</Text>
++      <Text>我從你的貿易代表團那裡收到了給新伊西斯的禮物。我會永遠銘記你的好意。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
-       <Text>您的使者已到達，我親自為他接風洗塵。我們的帝國能從外交中受益。</Text>
-@@ -22409,7 +22409,7 @@
-       <Text>您太體貼了，我的朋友。貴國貿易代表團帶來了您的禮物，我親自答謝了他們。</Text>
+-      <Text>您的使者已到達，我親自為他接風洗塵。我們的帝國能從外交中受益。</Text>
++      <Text>你的使者已到達，我親自為他接風洗塵。我們的帝國能從外交中受益。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>您太體貼了，我的朋友。貴國貿易代表團帶來了您的禮物，我親自答謝了他們。</Text>
++      <Text>你太體貼了，我的朋友。貴國貿易代表團帶來了你的禮物，我親自答謝了他們。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
 -      <Text>吉爾伽美什已接待了貴國使者，並收到了您的禮物。他會讓貴國代表團進入烏魯克。</Text>
-+      <Text>基加美修已接待了貴國使者，並收到了您的禮物。他會讓貴國代表團進入烏魯克。</Text>
++      <Text>基加美修已接待了貴國使者，並收到了你的禮物。他會讓貴國代表團進入烏魯克。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY" Language="zh_Hant_HK">
        <Text>斯巴達對物質商品不感興趣，但我要感謝貴國代表團帶給我的禮物。</Text>
-@@ -22520,16 +22520,16 @@
+@@ -22418,13 +22418,13 @@
+       <Text>貴國代表團到了。我們在長屋設宴款待了他們。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>貴國代表團到了，您的慷慨讓我們愧不敢當。</Text>
++      <Text>貴國代表團到了，你的慷慨讓我們愧不敢當。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+       <Text>我們很高興地歡迎貴國代表團來我國首都。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>國民很高興地接待了您的代表團，也很開心的接受了您的禮物。謝謝。</Text>
++      <Text>國民很高興地接待了你的代表團，也很開心的接受了你的禮物。謝謝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+       <Text>貴國貿易代表團到了，我一直很樂意接待外國賓客，尤其是他們還帶著禮物。</Text>
+@@ -22436,7 +22436,7 @@
+       <Text>我們很高興迎接貴國貿易代表團。他們將受到應有的榮譽款待。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>萬分感謝您的禮物。我們將以最大的敬意來款待貴國代表團。</Text>
++      <Text>萬分感謝你的禮物。我們將以最大的敬意來款待貴國代表團。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+       <Text>歡迎貴國代表團來到偉大的美利堅合眾國。</Text>
+@@ -22445,7 +22445,7 @@
+       <Text>貴國代表團為女皇帶來了禮物。非常感謝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>貴國貿易代表團到了，貴方的友善讓我們印象深刻。非常感謝您的禮物。</Text>
++      <Text>貴國貿易代表團到了，貴方的友善讓我們印象深刻。非常感謝你的禮物。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+       <Text>我們接待了貴國貿易代表團，請放心，我們將以他們應得的尊貴來款待他們。</Text>
+@@ -22511,7 +22511,7 @@
+       <Text>我的議會不批准。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>您將在首都接見我國外交團嗎？</Text>
++      <Text>你將在首都接見我國外交團嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+       <Text>我的貿易代表團很快會帶著木薯泥抵達貴國。敬請享用！</Text>
+@@ -22520,61 +22520,61 @@
        <Text>我派出了一支貿易代表團，他們帶著所有傳統禮物：草藥、橄欖、各種奶酪，當然還有他們混著一起吃的長棍麵包。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
 -      <Text>我的外交代表團給您帶了一份來自新伊希斯的紙莎草紙小禮物。請像歡迎我一樣歡迎他們。</Text>
-+      <Text>我的外交代表團給您帶了一份來自新伊西斯的紙莎草紙小禮物。請像歡迎我一樣歡迎他們。</Text>
++      <Text>我的外交代表團給你帶了一份來自新伊西斯的紙莎草紙小禮物。請像歡迎我一樣歡迎他們。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
 -      <Text>我派出了外交使者。請您們像接待我——斯瓦比亞大公、勃艮第國王、德國國王、羅馬國王、意大利國王和神聖羅馬皇帝——一樣接待他們。</Text>
-+      <Text>我派出了外交使者。請您們像接待我——斯瓦比亞大公、布根地國王、德國國王、羅馬國王、意大利國王和神聖羅馬皇帝——一樣接待他們。</Text>
++      <Text>我派出了外交使者。請你們像接待我——斯瓦比亞大公、布根地國王、德國國王、羅馬國王、意大利國王和神聖羅馬皇帝——一樣接待他們。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
-       <Text>我派了一支貿易代表團，給您帶了一些禮物：茶、紗麗服和西塔琴。</Text>
+-      <Text>我派了一支貿易代表團，給您帶了一些禮物：茶、紗麗服和西塔琴。</Text>
++      <Text>我派了一支貿易代表團，給你帶了一些禮物：茶、紗麗服和西塔琴。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
 -      <Text>吉爾伽美什的代表團給您帶來了蘇美爾的珠寶首飾、烏爾的七弦竪琴。您會在城裡接待他們嗎？</Text>
-+      <Text>基加美修的代表團給您帶來了蘇美爾的珠寶首飾、烏爾的七弦竪琴。您會在城裡接待他們嗎？</Text>
++      <Text>基加美修的代表團給你帶來了蘇美爾的珠寶首飾、烏爾的七弦竪琴。你會在城裡接待他們嗎？</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GORGO_ANY" Language="zh_Hant_HK">
-       <Text>一支斯巴達代表團充滿敬意地向您奉上橄欖油和黑肉湯作為禮物。請同樣充滿敬意地接待他們。</Text>
-@@ -22547,7 +22547,7 @@
+-      <Text>一支斯巴達代表團充滿敬意地向您奉上橄欖油和黑肉湯作為禮物。請同樣充滿敬意地接待他們。</Text>
++      <Text>一支斯巴達代表團充滿敬意地向你奉上橄欖油和黑肉湯作為禮物。請同樣充滿敬意地接待他們。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+-      <Text>我派出了一支貿易代表團給您帶去符文石作為禮物。它們具有強大的力量。當然，我說的是符文石，不是貿易使者。</Text>
++      <Text>我派出了一支貿易代表團給你帶去符文石作為禮物。它們具有強大的力量。當然，我說的是符文石，不是貿易使者。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>我派出了一支代表團給您帶去鑲嵌木作為禮物，那是我國最偉大的藝術品。</Text>
++      <Text>我派出了一支代表團給你帶去鑲嵌木作為禮物，那是我國最偉大的藝術品。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>您將在首都接見我國外交團嗎？</Text>
++      <Text>你將在首都接見我國外交團嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
        <Text>我派出了一支帶著禮物的代表團。別緊張，裡面沒有大木馬。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
@@ -8249,7 +8584,41 @@
 +      <Text>我派出了一支貿易代表團，並帶著上等魚子醬作為禮物。敬請享用！</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
-       <Text>我派出了一支代表團造訪您的城市。請友好地接待他們，並享用他們帶去的西班牙小油條。</Text>
+-      <Text>我派出了一支代表團造訪您的城市。請友好地接待他們，並享用他們帶去的西班牙小油條。</Text>
++      <Text>我派出了一支代表團造訪你的城市。請友好地接待他們，並享用他們帶去的西班牙小油條。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY" Language="zh_Hant_HK">
+       <Text>我們的貿易代表團應該很快就到了，他們帶著中原皇朝最好的香料、茶和絲綢。敬請享用！</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>我向您派出了一支代表團，他們帶著禮物，包括最香甜的水果、在最熱的天氣裡讓您感到涼爽的罕見的雪、最上等的馬匹。這都是我們的好意，請您收下。</Text>
++      <Text>我向你派出了一支代表團，他們帶著禮物，包括最香甜的水果、在最熱的天氣裡讓你感到涼爽的罕見的雪、最上等的馬匹。這都是我們的好意，請你收下。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>很高興見到您。我的外交代表團將很快到達，給您帶來新鮮出爐的蘋果餡餅。我相信您會熱情接待他們。</Text>
++      <Text>很高興見到你。我的外交代表團將很快到達，給你帶來新鮮出爐的蘋果餡餅。我相信你會熱情接待他們。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>我向您派出了一支貿易代表團，給您帶來了精緻的弓作為禮物。您肯定有箭，對吧？</Text>
++      <Text>我向你派出了一支貿易代表團，給你帶來了精緻的弓作為禮物。你肯定有箭，對吧？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>我向您派出了一支貿易代表團。請盡情享用羅馬羊奶酪：這種用鹽醃制的羊奶奶酪，肯定會是您吃過最美味的奶酪。</Text>
++      <Text>我向你派出了一支貿易代表團。請盡情享用羅馬羊奶酪：這種用鹽醃制的羊奶奶酪，肯定會是你吃過最美味的奶酪。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+-      <Text>您好。我們派出了代表英國的皇家大使。希望您們能熱情接待他們。</Text>
++      <Text>你好。我們派出了代表英國的皇家大使。希望你們能熱情接待他們。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_CHOICE_NEGATIVE" Language="zh_Hant_HK">
+       <Text>本國首都目前不對訪客開放。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_DELEGATION_CHOICE_POSITIVE" Language="zh_Hant_HK">
+-      <Text>熱烈歡迎您的代表團。</Text>
++      <Text>熱烈歡迎你的代表團。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+       <Text>太好了！</Text>
 @@ -22592,7 +22592,7 @@
        <Text>法國的榮耀和權利不會被這樣明顯的謊言玷污。</Text>
      </Replace>
@@ -8286,34 +8655,56 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_WONDERS" Language="zh_Hant_HK">
        <Text>（你的奇觀數量比他們多。）</Text>
-@@ -22865,28 +22865,28 @@
-       <Text>歡迎您的大使來我們首都。</Text>
+@@ -22844,13 +22844,13 @@
+       <Text>（他們害怕你。）</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興您能在我國首都建立大使館。</Text>
++      <Text>我們很高興你能在我國首都建立大使館。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY" Language="zh_Hant_HK">
+       <Text>我們目前不感興趣。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_EMBASSY_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>允許我們在您的首都建立大使館嗎？</Text>
++      <Text>允許我們在你的首都建立大使館嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+       <Text>噢，今天真開心！</Text>
+@@ -22862,70 +22862,70 @@
+       <Text>首都目前不接受新居民。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_EMBASSY_CHOICE_POSITIVE" Language="zh_Hant_HK">
+-      <Text>歡迎您的大使來我們首都。</Text>
++      <Text>歡迎你的大使來我們首都。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
 -      <Text>我是姆本巴•恩津加，您好，我的朋友。我能看見上帝在保佑您。您到這裡是來分享您的智慧嗎？</Text>
-+      <Text>我是姆本巴‧恩津加，您好，我的朋友。我能看見上帝在保佑您。您到這裡是來分享您的智慧嗎？</Text>
++      <Text>我是姆本巴‧恩津加，你好，我的朋友。我能看見上帝在保佑你。你到這裡是來分享你的智慧嗎？</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
-       <Text>我是法國皇太后凱薩琳，歡迎您來到我的王國。我想瞭解關於您的一切。</Text>
+-      <Text>我是法國皇太后凱薩琳，歡迎您來到我的王國。我想瞭解關於您的一切。</Text>
++      <Text>我是法國皇太后凱薩琳，歡迎你來到我的王國。我想瞭解關於你的一切。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
 -      <Text>我是獲得新生後的伊希斯，我如尼羅河一般生生不息。我是克麗奧佩脫拉，如果你值得，我將成為你的盟友</Text>
-+      <Text>我是獲得新生後的伊西斯，我如尼羅河一般生生不息。我是克麗奧佩脫拉，如果你值得，我將成為你的盟友</Text>
++      <Text>我是獲得新生後的伊西斯，我如尼羅河一般生生不息。我是克麗奧佩脫拉，如果你值得，我將成為你的盟友。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
 -      <Text>您好。我是弗雷德里克，我是神聖羅馬皇帝、德國國王、義大利國王、勃艮第國王，以及其他國家的首領。我相信您統治土地的方式和我一樣：通過強權。</Text>
-+      <Text>您好。我是腓特烈，我是神聖羅馬皇帝、德國國王、意大利國王、布根地國王，以及其他國家的首領。我相信您統治土地的方式和我一樣：通過強權。</Text>
++      <Text>你好。我是腓特烈，我是神聖羅馬皇帝、德國國王、意大利國王、布根地國王，以及其他國家的首領。我相信你統治土地的方式和我一樣：通過強權。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
 -      <Text>您好，我是莫漢達斯•甘地。我的國民稱我為聖雄，但請叫我朋友。</Text>
-+      <Text>您好，我是莫漢達斯‧甘地。我的國民稱我為聖雄，但請叫我朋友。</Text>
++      <Text>你好，我是莫漢達斯‧甘地。我的國民稱我為聖雄，但請叫我朋友。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
 -      <Text>我是蘇美爾的吉爾伽美什，也是烏魯克的國王。別害怕…我對朋友很好。</Text>
 +      <Text>我是蘇美爾的基加美修，也是烏魯克的國王。別害怕…我對朋友很好。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORGO_ANY" Language="zh_Hant_HK">
-       <Text>我是斯巴達女王歌果，也是希臘人的領袖。您是誰？您取得了哪些勝利？</Text>
+-      <Text>我是斯巴達女王歌果，也是希臘人的領袖。您是誰？您取得了哪些勝利？</Text>
++      <Text>我是斯巴達女王歌果，也是希臘人的領袖。你是誰？你取得了哪些勝利？</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
 -      <Text>站在你面前的是哈拉爾•西格德森：一個你在其它海洋和陸地上沒見過的海盜。哈哈，害怕了吧？</Text>
@@ -8321,7 +8712,35 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_HOJO_ANY" Language="zh_Hant_HK">
        <Text>你好，我是日本的北條時宗，是武士道的虔誠信徒。</Text>
-@@ -22916,7 +22916,7 @@
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>您好。很榮幸親自見到您。畢竟，偉大的思想總是會相互吸引。</Text>
++      <Text>你好。很榮幸親自見到你。畢竟，偉大的思想總是會相互吸引。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>您好，我是雅典的伯里克里斯，我代表我的民主國家歡迎您。我相信您會讓我和那些中立者做生意，對吧？</Text>
++      <Text>你好，我是雅典的伯里克里斯，我代表我的民主國家歡迎你。我相信你會讓我和那些中立者做生意，對吧？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>您好，我是沙皇彼得。像您這樣文雅的領袖肯定很享受生活中美好的事物。您也同樣喜歡藝術嗎？</Text>
++      <Text>你好，我是沙皇彼得。像你這樣文雅的領袖肯定很享受生活中美好的事物。你也同樣喜歡藝術嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>我是西班牙國王、葡萄牙國王、薩丁尼亞島和西西里島國王、拿坡里國王、米蘭公爵等等，但最重要的是，我是真正宗教的虔誠信徒。我希望您也是。</Text>
++      <Text>我是西班牙國王、葡萄牙國王、薩丁尼亞島和西西里島國王、拿坡里國王、米蘭公爵等等，但最重要的是，我是真正宗教的虔誠信徒。我希望你也是。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY" Language="zh_Hant_HK">
+       <Text>你為何站在不朽天子偉大秦始皇面前？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>借著真主的恩典，我祝福您，我真誠的朋友，祝您強大的、勝利的、永恆的王國永無止境。</Text>
++      <Text>借著真主的恩典，我祝福你，我真誠的朋友，祝你強大的、勝利的、永恆的王國永無止境。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>歡迎來到美國。如果您是一位優秀的領導者，我們可以成為朋友。</Text>
++      <Text>歡迎來到美國。如果你是一位優秀的領導者，我們可以成為朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
        <Text>你需要知道：如有背叛，我會用血來償還！但，如果你是我真正的朋友，我們會和平共處的。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
@@ -8329,7 +8748,18 @@
 +      <Text>向你致敬，陌生人。我是影響深遠的羅馬皇帝凱撒‧圖拉真。你是誰？你聲稱哪些土地歸你所有？</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
-       <Text>您好。借著上帝的恩典，維多利亞成為了大不列顛聯合王國和愛爾蘭女王。我敢說，很快整個帝國都是她的。</Text>
+-      <Text>您好。借著上帝的恩典，維多利亞成為了大不列顛聯合王國和愛爾蘭女王。我敢說，很快整個帝國都是她的。</Text>
++      <Text>你好。借著上帝的恩典，維多利亞成為了大不列顛聯合王國和愛爾蘭女王。我敢說，很快整個帝國都是她的。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_ANY_ANY" Language="zh_Hant_HK">
+       <Text>你好，旅行者。你應該知道你加入了偉人的行列！</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_POSITIVE" Language="zh_Hant_HK">
+-      <Text>很榮幸見到您。</Text>
++      <Text>很榮幸見到你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_BUSY" Language="zh_Hant_HK">
+       <Text>很高興見到陌生人，但我們恐怕沒有時間留下來交談。</Text>
 @@ -22958,7 +22958,7 @@
        <Text>如果你來我們附近城市參加盂蘭盆節，我會非常榮幸。你很喜歡吃涼拌海蜇吧？</Text>
      </Replace>
@@ -8339,15 +8769,233 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
        <Text>你願意參觀我們附近的大都市嗎？在觀賞歌劇之前，我們可以討論下政治。</Text>
-@@ -23210,7 +23210,7 @@
+@@ -22976,13 +22976,13 @@
+       <Text>我很榮幸向你展示我們城市的熱情好客：出色的藝術、美味佳餚、響徹城市的悅耳禱告聲。想來參觀嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>我們附近有一座城市。想來參觀嗎？我可以向您展示如今很受歡迎的毛絨熊。</Text>
++      <Text>我們附近有一座城市。想來參觀嗎？我可以向你展示如今很受歡迎的毛絨熊。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+       <Text>我們附近有一座城市。想來參觀嗎？我們會為你戴上一頂適合你的尖帽子。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>當然，您的帝國附近有一座城市。你會來拜訪並被它的美麗所征服嗎？</Text>
++      <Text>當然，你的帝國附近有一座城市。你會來拜訪並被它的美麗所征服嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+       <Text>我們很榮幸地邀請你來參觀我們國家，當然，這很簡單，因為我們有很多殖民地。</Text>
+@@ -22991,7 +22991,7 @@
+       <Text>我們附近有一座城市。想來參觀嗎？你還能參加我們即將到來的慶祝會。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_CHOICE_FIRST_MEET_VISIT" Language="zh_Hant_HK">
+-      <Text>我們樂意接受您的熱情招待。</Text>
++      <Text>我們樂意接受你的熱情招待。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_VISIT" Language="zh_Hant_HK">
+       <Text>對不起，這次不行。</Text>
+@@ -23000,7 +23000,7 @@
+       <Text>願意拜訪我們附近的城市並感受我們的熱情款待嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_NO_HOSPITALITY" Language="zh_Hant_HK">
+-      <Text>感謝您的介紹，但我們沒有時間再講客套話了。</Text>
++      <Text>感謝你的介紹，但我們沒有時間再講客套話了。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY" Language="zh_Hant_HK">
+       <Text>當然，我會很高興能近距離看看你不斷發展的城市。</Text>
+@@ -23015,10 +23015,10 @@
+       <Text>很好。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，朋友。</Text>
++      <Text>謝謝你，朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，朋友。</Text>
++      <Text>謝謝你，朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
+       <Text>是的，我們接受。</Text>
+@@ -23027,10 +23027,10 @@
+       <Text>很好。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，我的朋友。</Text>
++      <Text>謝謝你，我的朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>謝謝您，朋友。</Text>
++      <Text>謝謝你，朋友。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+       <Text>是的，十分感謝你。</Text>
+@@ -23042,13 +23042,13 @@
+       <Text>是的，很好。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>願上帝保佑您。</Text>
++      <Text>願上帝保佑你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY" Language="zh_Hant_HK">
+       <Text>這是可以接受的。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>充滿誠意的提議。願真主保佑您。</Text>
++      <Text>充滿誠意的提議。願真主保佑你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+       <Text>我無法拒絕。</Text>
+@@ -23063,7 +23063,7 @@
+       <Text>我們對此表示贊同。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_CHOICE_NO_MANS_POSITIVE" Language="zh_Hant_HK">
+-      <Text>很榮幸見到您。</Text>
++      <Text>很榮幸見到你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_CHOICE_NO_MANS_NO_EXCHANGE" Language="zh_Hant_HK">
+       <Text>很高興見到陌生人，但我們恐怕沒有時間留下來交談。</Text>
+@@ -23141,19 +23141,19 @@
+       <Text>一如既往地感到榮幸。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+-      <Text>您想和我說話？</Text>
++      <Text>你想和我說話？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>您想要什麼？</Text>
++      <Text>你想要什麼？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>願您平安。</Text>
++      <Text>願你平安。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
+       <Text>讓我們開始吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_GORGO_ANY" Language="zh_Hant_HK">
+-      <Text>您好。</Text>
++      <Text>你好。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+       <Text>請講。</Text>
+@@ -23162,34 +23162,34 @@
+       <Text>歡迎。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>您希望我做什麼？</Text>
++      <Text>你希望我做什麼？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>您好嗎？</Text>
++      <Text>你好嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>祝您有美好的一天。</Text>
++      <Text>祝你有美好的一天。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+       <Text>很榮幸。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_QIN_ANY" Language="zh_Hant_HK">
+-      <Text>祝福您。</Text>
++      <Text>祝福你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>您還好嗎？</Text>
++      <Text>你還好嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+       <Text>請繼續。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>您希望我做什麼？</Text>
++      <Text>你希望我做什麼？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>祝您健康。</Text>
++      <Text>祝你健康。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+-      <Text>我們很榮幸接待您。</Text>
++      <Text>我們很榮幸接待你。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_GREETING_ANY_ANY" Language="zh_Hant_HK">
+       <Text>你希望我做什麼？</Text>
+@@ -23198,10 +23198,10 @@
+       <Text></Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+-      <Text>我看到了您的巧妙治國之術。我自己一直非常喜歡間諜活動。</Text>
++      <Text>我看到了你的巧妙治國之術。我自己一直非常喜歡間諜活動。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+-      <Text>我只對值得的人感興趣。很明顯，您就是其中之一。</Text>
++      <Text>我只對值得的人感興趣。很明顯，你就是其中之一。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+       <Text>我欣賞你的深謀遠慮。但援助城邦簡直是在自尋死路。</Text>
+@@ -23210,49 +23210,49 @@
        <Text>威懾力沒什麼丟人的。擁有武器與實際使用武器大不相同。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
 -      <Text>您是我的好朋友、好盟友。吉爾伽美什會牢記這一點。</Text>
-+      <Text>您是我的好朋友、好盟友。基加美修會牢記這一點。</Text>
++      <Text>你是我的好朋友、好盟友。基加美修會牢記這一點。</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GORGO_ANY" Language="zh_Hant_HK">
-       <Text>您將成為一個優秀的斯巴達人…堅韌、強壯、勇敢。</Text>
+-      <Text>您將成為一個優秀的斯巴達人…堅韌、強壯、勇敢。</Text>
++      <Text>你將成為一個優秀的斯巴達人…堅韌、強壯、勇敢。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+       <Text>一支強大的海軍…這真是壯觀的一幕。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>您建造了強大的、輝煌的朝陽帝國。</Text>
++      <Text>你建造了強大的、輝煌的朝陽帝國。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+-      <Text>我歡迎您的先知和牧師來傳道。從他們的善舉中，我們學到了很多。</Text>
++      <Text>我歡迎你的先知和牧師來傳道。從他們的善舉中，我們學到了很多。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+       <Text>猜想一下我國聰慧的人會完成的奇妙事。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>您把鄰邦留給我們真是明智之舉。</Text>
++      <Text>你把鄰邦留給我們真是明智之舉。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>大家都在同您的社會相競爭。藝術、科技…有什麼是您沒有的？</Text>
++      <Text>大家都在同你的社會相競爭。藝術、科技…有什麼是你沒有的？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>讓我感到寬慰的是您理解我們無法容忍異端。這當然是在褻瀆上帝。</Text>
++      <Text>讓我感到寬慰的是你理解我們無法容忍異端。這當然是在褻瀆上帝。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_QIN_ANY" Language="zh_Hant_HK">
+       <Text>好在你沒有試圖同偉大的秦國一較高下。我們的奇觀是無與倫比的。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>祝福您。您以了不起的完美之神的名義，用自己的行為傳播了真理和慈悲。</Text>
++      <Text>祝福你。你以了不起的完美之神的名義，用自己的行為傳播了真理和慈悲。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>感謝您維護這片大陸的和平。您真棒！</Text>
++      <Text>感謝你維護這片大陸的和平。你真棒！</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>我們兩個國家從未如此強大。希望在和平時期您能取得很多成就。</Text>
++      <Text>我們兩個國家從未如此強大。希望在和平時期你能取得很多成就。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>您帝國的地位如同宙斯神在天上的地位。幹得不錯。</Text>
++      <Text>你帝國的地位如同宙斯神在天上的地位。幹得不錯。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_EXIT_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+-      <Text>您在我們共享的大陸上做出了由衷的努力，請接受我最誠摯的謝意。</Text>
++      <Text>你在我們共享的大陸上做出了由衷的努力，請接受我最誠摯的謝意。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_ANY" Language="zh_Hant_HK">
+       <Text>（你在外交能見度和間諜活動方面很厲害）</Text>
 @@ -23288,7 +23288,7 @@
        <Text>（你沒有爭奪城邦）</Text>
      </Replace>
@@ -8357,6 +9005,253 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_ANY" Language="zh_Hant_HK">
        <Text>（你分享他的宗教）</Text>
+@@ -23315,25 +23315,25 @@
+       <Text>榮譽–原因未知</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_CULTURE" Language="zh_Hant_HK">
+-      <Text>您的人民發展出的特色文化讓我印象深刻。</Text>
++      <Text>你的人民發展出的特色文化讓我印象深刻。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_HAPPINESS" Language="zh_Hant_HK">
+-      <Text>我聽說您的國民想慶祝您的統治。您管理的不錯，能讓他們如此高興。</Text>
++      <Text>我聽說你的國民想慶祝你的統治。你管理的不錯，能讓他們如此高興。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_INCOME" Language="zh_Hant_HK">
+-      <Text>您的國庫都快滿了。收入這麼高，真是好事，對吧？</Text>
++      <Text>你的國庫都快滿了。收入這麼高，真是好事，對吧？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_INDUSTRY" Language="zh_Hant_HK">
+-      <Text>我衷心祝賀您的國民取得如此高的生產力。</Text>
++      <Text>我衷心祝賀你的國民取得如此高的生產力。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_NOT_COMPETING_MINORS" Language="zh_Hant_HK">
+-      <Text>我們和較小的文明是真正的朋友。我們很感激您承認這一事實。</Text>
++      <Text>我們和較小的文明是真正的朋友。我們很感激你承認這一事實。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_POPULATION" Language="zh_Hant_HK">
+-      <Text>您領土內的國民數量真的很驚人。</Text>
++      <Text>你領土內的國民數量真的很驚人。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_SCIENCE" Language="zh_Hant_HK">
+-      <Text>您科研的深度讓我印象深刻。</Text>
++      <Text>你科研的深度讓我印象深刻。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_STANDING_ARMY" Language="zh_Hant_HK">
+       <Text>我就喜愛的擁有令人印象深刻的軍事力量的領袖。</Text>
+@@ -23345,22 +23345,22 @@
+       <Text>我很高興看到世界上的偉大思想家更喜歡我們帝國。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MODIFIER_WONDER_ADVOCATE_LAG" Language="zh_Hant_HK">
+-      <Text>您把奇觀建築留給我們，我太開心啰。</Text>
++      <Text>你把奇觀建築留給我們，我太開心囉。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PROTECT_CITY_STATES" Language="zh_Hant_HK">
+-      <Text>您對城邦生存權的保護為全世界樹立了榜樣。</Text>
++      <Text>你對城邦生存權的保護為全世界樹立了榜樣。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MED_PROTECT_CITY_STATES" Language="zh_Hant_HK">
+-      <Text>強者應該保護弱者。很高興看到您同意此觀點。</Text>
++      <Text>強者應該保護弱者。很高興看到你同意此觀點。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_AIRPOWER" Language="zh_Hant_HK">
+-      <Text>我必須得說您的空軍力量可真不是好惹的。很棒。</Text>
++      <Text>我必須得說你的空軍力量可真不是好惹的。很棒。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_PROTECTS_CITY_STATES" Language="zh_Hant_HK">
+       <Text>照料那些無法照料自己的人是一件很了不起的事。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_CLEARS_BARBARIAN_CAMPS" Language="zh_Hant_HK">
+-      <Text>一直以來，蠻族對我們大家都是麻煩。非常感謝您的幫助！</Text>
++      <Text>一直以來，蠻族對我們大家都是麻煩。非常感謝你的幫助！</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ENVIRONMENT" Language="zh_Hant_HK">
+       <Text>我們只有一個地球，很高興我不是唯一一個對此表示敬畏的人。</Text>
+@@ -23369,13 +23369,13 @@
+       <Text>世界就是供我們自由索取的。想要什麼拿什麼。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SAME_GOVERNMENT" Language="zh_Hant_HK">
+-      <Text>我發現您和我志趣相投，必須贊揚您對於新政體的實踐。</Text>
++      <Text>我發現你和我志趣相投，必須讚揚你對於新政體的實踐。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_NUKE_LOVE" Language="zh_Hant_HK">
+       <Text>英雄所見略同。那項技術用途廣泛…</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_FAITH" Language="zh_Hant_HK">
+-      <Text>願您和您的人民永享和平。看到另一個和我一樣虔誠的人讓我振奮不已。</Text>
++      <Text>願你和你的人民永享和平。看到另一個和我一樣虔誠的人讓我振奮不已。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_EXPLORATION" Language="zh_Hant_HK">
+       <Text>是的，很好。探索這事就交給我來做吧。</Text>
+@@ -23513,7 +23513,7 @@
+       <Text>你的帝國正走向破產。你應該怎樣從堆積如山的債務裡存活下來呢？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS" Language="zh_Hant_HK">
+-      <Text>與城邦攜手合作而使您踏入了危險之地。把它們交給我們吧。</Text>
++      <Text>與城邦攜手合作而使你踏入了危險之地。把它們交給我們吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY" Language="zh_Hant_HK">
+       <Text>你的國民又懶又卑鄙。如果你生產不出任何東西，那你的文明國家將被很快遺忘。</Text>
+@@ -23549,7 +23549,7 @@
+       <Text>恃強凌弱真可悲。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_IGNORES_BARBARIAN_CAMPS" Language="zh_Hant_HK">
+-      <Text>您怎能讓那些蠻族在您國土附近胡作非為？</Text>
++      <Text>你怎能讓那些蠻族在你國土附近胡作非為？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ENVIRONMENT" Language="zh_Hant_HK">
+       <Text>我必須告訴你，你對地球的破壞不僅會影響自己，還會影響到你的鄰居。</Text>
+@@ -23570,70 +23570,70 @@
+       <Text>發現的只有這麼多，恐怕我無法容忍任何人比我的探險家先出發。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興接受您的聯盟提議。</Text>
++      <Text>我們很高興接受你的聯盟提議。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY" Language="zh_Hant_HK">
+       <Text>我們目前不感興趣。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+-      <Text>我小心翼翼地選擇盟友，我發現您就是我要找的。</Text>
++      <Text>我小心翼翼地選擇盟友，我發現你就是我要找的。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>您想結盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GORGO_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>您是我們帝國的朋友，如果您肯與我結盟，我將倍感榮幸。</Text>
++      <Text>你是我們帝國的朋友，如果你肯與我結盟，我將倍感榮幸。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>您已贏得了我的尊重，我們能結為同盟嗎？</Text>
++      <Text>你已贏得了我的尊重，我們能結為同盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+-      <Text>您想結為同盟嗎？</Text>
++      <Text>你想結盟嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY" Language="zh_Hant_HK">
+       <Text>棒極了。</Text>
+@@ -23666,7 +23666,7 @@
+       <Text>索取對你沒有任何幫助。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_AI_ACCEPT_DEMAND_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>我會遵照您的要求。</Text>
++      <Text>我會遵照你的要求。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_HUMAN_ACCEPT_DEMAND_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+       <Text>你接受我的索取是明智的。</Text>
+@@ -23675,19 +23675,19 @@
+       <Text>我或許會採取其它方式來滿足索取！</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>我接受您的和平條款。</Text>
++      <Text>我接受你的和平條款。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+-      <Text>和平與您同在。</Text>
++      <Text>和平與你同在。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+       <Text>我不想讓人記住我是一個好戰分子。放下我們之間的分歧吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+-      <Text>我必須承認我寧願與您和平共處。</Text>
++      <Text>我必須承認我寧願與你和平共處。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>您英勇地戰鬥，獲得了和平。我們很高興進行休戰。</Text>
++      <Text>你英勇地戰鬥，獲得了和平。我們很高興進行休戰。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+       <Text>是的，這是一件好事。</Text>
+@@ -23705,7 +23705,7 @@
+       <Text>很榮幸在戰場上遇到和我實力相當的人。我會將劍插入劍鞘，而不是用它來消滅如此偉大的勇士。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>我接受您的和平條款。</Text>
++      <Text>我接受你的和平條款。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+       <Text>我們接受這個好的建議。</Text>
+@@ -23714,7 +23714,7 @@
+       <Text>我對追求自己想要的人生更感興趣，而不是致人死亡。讓我們和平共處吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>讓您與帝國享有和平。我們已厭倦了戰爭。</Text>
++      <Text>讓你與帝國享有和平。我們已厭倦了戰爭。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY" Language="zh_Hant_HK">
+       <Text>我們深受感動。讓我們和平共處吧。</Text>
+@@ -23726,7 +23726,7 @@
+       <Text>我們國家的義務是保護自己的權利和利益。這項工作已完成；讓我們走向和平吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>我接受您的和平條款。</Text>
++      <Text>我接受你的和平條款。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+       <Text>讓我們宣佈停戰吧。戰爭不會給我們帶來任何好處。</Text>
 @@ -23753,7 +23753,7 @@
        <Text>抱歉，不同意。</Text>
      </Replace>
@@ -8366,15 +9261,219 @@
      </Replace>
      <Replace Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GORGO_ANY" Language="zh_Hant_HK">
        <Text>我稍後再考慮。</Text>
-@@ -24005,7 +24005,7 @@
-       <Text>您允許我們的軍隊通過您的領土嗎？</Text>
+@@ -23801,19 +23801,19 @@
+       <Text>讓戰爭結束吧。讓我們沐浴在和平的聖光中。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+-      <Text>為了我們所愛的人，我祈求您，讓雙方和平共處。</Text>
++      <Text>為了我們所愛的人，我祈求你，讓雙方和平共處。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+       <Text>和平比戰爭更有趣，你不同意？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>您很好地保護了您的國民。現在，只要您願意，我將賜予您和平。</Text>
++      <Text>你很好地保護了你的國民。現在，只要你願意，我將賜予你和平。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+       <Text>以牙還牙的報復讓世界變得盲目。我們應當追求和平。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
+-      <Text>從地獄深處到埃阿山脈，我從沒與像您這樣強大的對手戰鬥過。讓我們和平共處吧。</Text>
++      <Text>從地獄深處到埃阿山脈，我從沒與像你這樣強大的對手戰鬥過。讓我們和平共處吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GORGO_ANY" Language="zh_Hant_HK">
+       <Text>你得到了喘息的機會…和平？</Text>
+@@ -23825,10 +23825,10 @@
+       <Text>沒什麼再值得戰鬥的了。相反，讓我們反省下自己的行為吧。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>和平已經到來。您同意嗎？</Text>
++      <Text>和平已經到來。你同意嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>民主國家已為和平投了票。您會接受結束戰爭嗎？</Text>
++      <Text>民主國家已為和平投了票。你會接受結束戰爭嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+       <Text>如果你們願意談判，我能找到結束戰爭的共同基礎。</Text>
+@@ -23846,10 +23846,10 @@
+       <Text>我保護了國家的利益，捍衛了我們的權利。我的工作完成了。現在，我們能生活在和平之中了。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>和平已經到來。您同意嗎？</Text>
++      <Text>和平已經到來。你同意嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>戰爭，恐怖的戰爭！讓我們擁有羅馬式的和平。您覺得怎樣？</Text>
++      <Text>戰爭，恐怖的戰爭！讓我們擁有羅馬式的和平。你覺得怎樣？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+       <Text>我們認為可以達成一項協議，讓雙方都滿意。</Text>
+@@ -23867,61 +23867,61 @@
+       <Text>接受和平協議</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興為您的軍隊打開邊境。</Text>
++      <Text>我們很高興為你的軍隊打開邊境。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興為您的軍隊打開邊境。</Text>
++      <Text>我們很高興為你的軍隊打開邊境。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+-      <Text>噢，很好，您可以開始了。</Text>
++      <Text>噢，很好，你可以開始了。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+-      <Text>如果您尊重我們的古老傳統，那您可以進入埃及。</Text>
++      <Text>如果你尊重我們的古老傳統，那你可以進入埃及。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+       <Text>我會同意，希望此舉能為德國帶來好處</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興為您的軍隊打開邊境。</Text>
++      <Text>我們很高興為你的軍隊打開邊境。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
+-      <Text>我的朋友，您可以穿過蘇美爾。但千萬不要打擾到我的國民。</Text>
++      <Text>我的朋友，你可以穿過蘇美爾。但千萬不要打擾到我的國民。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY" Language="zh_Hant_HK">
+-      <Text>我會為您開放邊境，但不要在斯巴達逗留。</Text>
++      <Text>我會為你開放邊境，但不要在斯巴達逗留。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+       <Text>是的，探索。世界太大了，不能只待在一個地方。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>您的國民可以通過我的邊境，但他們必須尊重我們的生活方式。</Text>
++      <Text>你的國民可以通過我的邊境，但他們必須尊重我們的生活方式。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興為您的軍隊打開邊境。</Text>
++      <Text>我們很高興為你的軍隊打開邊境。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>是的，我們將允許您通過民主國家。或許我們還可以相互學習。</Text>
++      <Text>是的，我們將允許你通過民主國家。或許我們還可以相互學習。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>好的，我授權允許您通過我的領地。</Text>
++      <Text>好的，我授權允許你通過我的領地。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>是的，您可以通過我的領地。如此巨大的帝國不應該成為一塊禁地。</Text>
++      <Text>是的，你可以通過我的領地。如此巨大的帝國不應該成為一塊禁地。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY" Language="zh_Hant_HK">
+-      <Text>您當然可以通過。您還能為中原皇朝帶來什麼威脅嗎？</Text>
++      <Text>你當然可以通過。你還能為中原皇朝帶來什麼威脅嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>是的，如果他們在我們的領地上留下來，您可以通過這裡。我一直都接受這樣的戰爭交易。</Text>
++      <Text>是的，如果他們在我們的領地上留下來，你可以通過這裡。我一直都接受這樣的戰爭交易。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興為您的軍隊打開邊境。</Text>
++      <Text>我們很高興為你的軍隊打開邊境。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興為您的軍隊打開邊境。</Text>
++      <Text>我們很高興為你的軍隊打開邊境。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>我們很高興為您的軍隊打開邊境。</Text>
++      <Text>我們很高興為你的軍隊打開邊境。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+       <Text>我們對和平的共同願望表示感謝，我們同意在自己軍隊中加入你們的軍事力量。</Text>
+@@ -23987,64 +23987,64 @@
+       <Text>為了國民的安全，很遺憾，我必須拒絕你的請求。非常希望你能理解。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+-      <Text>您允許我們軍隊通過您的領土嗎？</Text>
++      <Text>你允許我們軍隊通過你的領土嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MVEMBA_ANY" Language="zh_Hant_HK">
+-      <Text>您允許我們的軍隊通過您的領土嗎？</Text>
++      <Text>你允許我們的軍隊通過你的領土嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY" Language="zh_Hant_HK">
+-      <Text>我的軍隊希望被允許通過您的領地。當然是以和平的方式。</Text>
++      <Text>我的軍隊希望被允許通過你的領地。當然是以和平的方式。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY" Language="zh_Hant_HK">
+-      <Text>讓我的國民通過您的領地。我不會虧待您的…</Text>
++      <Text>讓我的國民通過你的領地。我不會虧待你的…</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BARBAROSSA_ANY" Language="zh_Hant_HK">
+-      <Text>我的軍隊必須通過您的國土。您會允許嗎？</Text>
++      <Text>我的軍隊必須通過你的國土。你會允許嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GANDHI_ANY" Language="zh_Hant_HK">
+-      <Text>您允許我們的軍隊通過您的領土嗎？</Text>
++      <Text>你允許我們的軍隊通過你的領土嗎？</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GILGAMESH_ANY" Language="zh_Hant_HK">
 -      <Text>吉爾伽美什要穿過您的領地去碾碎他的敵人，可以嗎？</Text>
-+      <Text>基加美修要穿過您的領地去碾碎他的敵人，可以嗎？</Text>
++      <Text>基加美修要穿過你的領地去碾碎他的敵人，可以嗎？</Text>
      </Replace>
      <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GORGO_ANY" Language="zh_Hant_HK">
-       <Text>我們斯巴達人希望通過您的領地，您會拒絕給予他們這次展現英勇的機會嗎？</Text>
+-      <Text>我們斯巴達人希望通過您的領地，您會拒絕給予他們這次展現英勇的機會嗎？</Text>
++      <Text>我們斯巴達人希望通過你的領地，你會拒絕給予他們這次展現英勇的機會嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARDRADA_ANY" Language="zh_Hant_HK">
+-      <Text>您會讓維京人通過嗎？他們得不到滿足時會變得難以控制。</Text>
++      <Text>你會讓維京人通過嗎？他們得不到滿足時會變得難以控制。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HOJO_ANY" Language="zh_Hant_HK">
+-      <Text>我很謙卑地申請軍隊通過您的邊境。我們會維護和平。</Text>
++      <Text>我很謙卑地申請軍隊通過你的邊境。我們會維護和平。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PEDRO_ANY" Language="zh_Hant_HK">
+-      <Text>您允許我們的軍隊通過您的領土嗎？</Text>
++      <Text>你允許我們的軍隊通過你的領土嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PERICLES_ANY" Language="zh_Hant_HK">
+-      <Text>雅典人想通過您的領土。允許嗎？</Text>
++      <Text>雅典人想通過你的領土。允許嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PETER_GREAT_ANY" Language="zh_Hant_HK">
+-      <Text>我的國民想穿過您的領土去看看世界。允許嗎？</Text>
++      <Text>我的國民想穿過你的領土去看看世界。允許嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PHILIP_II_ANY" Language="zh_Hant_HK">
+-      <Text>西班牙王國誠摯地請求通過您的土地。我們不會對您造成任何損害。</Text>
++      <Text>西班牙王國誠摯地請求通過你的土地。我們不會對你造成任何損害。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY" Language="zh_Hant_HK">
+-      <Text>我們必須穿過您的領土，謙卑地請求進入您的領域。</Text>
++      <Text>我們必須穿過你的領土，謙卑地請求進入你的領域。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SALADIN_ANY" Language="zh_Hant_HK">
+-      <Text>您會允許我的國民穿過您的領土嗎？我向您保證他們非常愛好和平。</Text>
++      <Text>你會允許我的國民穿過你的領土嗎？我向你保證他們非常愛好和平。</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ANY" Language="zh_Hant_HK">
+-      <Text>您允許我們的軍隊通過您的領土嗎？</Text>
++      <Text>你允許我們的軍隊通過你的領土嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TOMYRIS_ANY" Language="zh_Hant_HK">
+-      <Text>您允許我們的軍隊通過您的領土嗎？</Text>
++      <Text>你允許我們的軍隊通過你的領土嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TRAJAN_ANY" Language="zh_Hant_HK">
+-      <Text>您允許我們的軍隊通過您的領土嗎？</Text>
++      <Text>你允許我們的軍隊通過你的領土嗎？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY" Language="zh_Hant_HK">
+-      <Text>我們謙卑地請求讓我們的士兵穿過您的領域。您意下如何？</Text>
++      <Text>我們謙卑地請求讓我們的士兵穿過你的領域。你意下如何？</Text>
+     </Replace>
+     <Replace Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY" Language="zh_Hant_HK">
+       <Text>太好了！</Text>
 @@ -24116,7 +24116,7 @@
        <Text>朋友，請從我的邊境撤走你的軍隊。他們讓我這樣的和平主義者緊張不安。</Text>
      </Replace>
